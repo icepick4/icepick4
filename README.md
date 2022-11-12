@@ -3,7 +3,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=icepick4&layout=compact" width"600">
   <img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" height ="285"width="500"/>
 </div>
 
