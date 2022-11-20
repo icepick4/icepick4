@@ -17,7 +17,7 @@ Young developper who likes create things !
   
 # Wakatime Stats
 
-# Skills
+# Languages/Tools I use
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
