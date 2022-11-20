@@ -16,22 +16,8 @@ Young developper who likes create things !
   <img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
   
 # Wakatime Stats
-
+  
 <!--START_SECTION:waka-->
-
-```text
-From: 06 June 2022 - To: 19 November 2022
-
-Total Time: 200 hrs 44 mins
-
-Python          54 hrs 51 mins  >>>>>>>------------------   27.33 %
-TypeScript      41 hrs 48 mins  >>>>>--------------------   20.83 %
-PHP             21 hrs 54 mins  >>>----------------------   10.91 %
-HTML            16 hrs 45 mins  >>-----------------------   08.35 %
-SCSS            16 hrs 45 mins  >>-----------------------   08.34 %
-CSS             10 hrs 27 mins  >------------------------   05.21 %
-```
-
 <!--END_SECTION:waka-->
 
 # Languages/Tools I use
