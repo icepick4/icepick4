@@ -17,10 +17,8 @@ Young developper who likes create things !
   
 # Wakatime Stats
 
-<img
-  src="https://github.com/icepick4/icepick4/blob/main/images/stat.svg"
-  alt="wakatime stats"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # Languages/Tools I use
 
