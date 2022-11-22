@@ -18,42 +18,7 @@ Young developper who likes create things !
 # Wakatime Stats
   </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2057%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 810 Contributions in the Year 2022
- > 
-> 📦 81.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    198 commits    ██████░░░░░░░░░░░░░░░░░░░   25.26% 
-🌆 Daytime    291 commits    █████████░░░░░░░░░░░░░░░░   37.12% 
-🌃 Evening    265 commits    ████████░░░░░░░░░░░░░░░░░   33.8% 
-🌙 Night      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.83%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-Tuesday      122 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-Wednesday    172 commits    █████░░░░░░░░░░░░░░░░░░░░   21.94% 
-Thursday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Friday       133 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
-Sunday       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63%
-
-```
-
+![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2012%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -91,7 +56,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2022 20:31:11 UTC
+ Last Updated on 22/11/2022 20:50:04 UTC
 <!--END_SECTION:waka-->
 <div align="center">
 # Languages/Tools I use
