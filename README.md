@@ -38,6 +38,8 @@ Young developper who likes create things !
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47%20Thousand%20lines%20of%20code-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -74,7 +76,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2022 21:31:05 UTC
+ Last Updated on 22/11/2022 21:42:47 UTC
 <!--END_SECTION:waka-->
 
   <img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
