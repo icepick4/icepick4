@@ -16,7 +16,7 @@ Young developper who likes create things !
   <img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
   
 # Wakatime Stats
-  
+  </div>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2057%20mins-blue)
 
@@ -93,7 +93,7 @@ C                        2 repos             ██░░░░░░░░░�
 
  Last Updated on 22/11/2022 20:31:11 UTC
 <!--END_SECTION:waka-->
-
+<div align="center">
 # Languages/Tools I use
 
 <div align="center">
