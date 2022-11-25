@@ -2,8 +2,8 @@
   
 # Rémi JARA
 
-Young developper who likes create things !
-
+Young developper who likes create things ! \
+Visit my [Portfolio](https://icepick4.github.io/portfolio/) to discover more about my projects !
 # Interests
 
   • I like playing video games, making video games 🎮  \
