@@ -2,8 +2,10 @@
   
 # Rémi JARA
 
-Young developper who likes create things ! \
-Visit my [Portfolio](https://icepick4.github.io/portfolio/) to discover more about my projects !
+Young developper who likes create things ! 
+  
+  [![MVisit my portfolio !](https://img.shields.io/badge/Visit%20My%20portfolio!-%23DD0031?style=for-the-badge&logo=github)](https://icepick4.github.io/portfolio/)
+  [![Follow me on LinkedIn !](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-%231572B6?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rémi-jara-516b30222/)
 # Interests
 
   • I like playing video games, making video games 🎮  \
@@ -78,9 +80,6 @@ C                        2 repos             ██░░░░░░░░░�
 
  Last Updated on 30/11/2022 01:46:40 UTC
 <!--END_SECTION:waka-->
-
-  <img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
-
-  
+<img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
 
 
