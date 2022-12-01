@@ -4,7 +4,7 @@
 
 Young developper who likes create things ! 
   
-  [![MVisit my portfolio !](https://img.shields.io/badge/Visit%20My%20portfolio!-%23DD0031?style=for-the-badge&logo=github)](https://icepick4.github.io/portfolio/)
+  [![Visit my portfolio !](https://img.shields.io/badge/Visit%20My%20portfolio!-%23DD0031?style=for-the-badge&logo=github)](http://remi-jara.fr)
   [![Follow me on LinkedIn !](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-%231572B6?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rémi-jara-516b30222/)
 # Interests
 
