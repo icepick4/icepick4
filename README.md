@@ -36,34 +36,11 @@ Young developper who likes create things !
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42%20Thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   12 hrs 41 mins      ███████████████░░░░░░░░░░   61.5% 
-PHP                      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.02% 
-Java                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.53% 
-JavaScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.71% 
-Text                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.19%
-
-🐱‍💻 Projects: 
-advent-of-code           13 hrs 26 mins      ████████████████░░░░░░░░░   65.12% 
-sae-sncf                 2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
-tests                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.3% 
-TCP                      1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
-portfolio                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
-
-💻 Operating System: 
-Linux                    12 hrs 10 mins      ██████████████░░░░░░░░░░░   59.02% 
-Windows                  8 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.98%
-
-```
 
 **I Mostly Code in Python** 
 
@@ -78,7 +55,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2022 01:43:32 UTC
+ Last Updated on 13/12/2022 01:43:02 UTC
 <!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
 
