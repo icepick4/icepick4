@@ -36,11 +36,34 @@ Young developper who likes create things !
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43%20Thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   10 hrs 46 mins      ████████████████░░░░░░░░░   63.51% 
+PHP                      2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
+JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
+Text                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+Java                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25%
+
+🐱‍💻 Projects: 
+advent-of-code           10 hrs 59 mins      ████████████████░░░░░░░░░   64.82% 
+sae-sncf                 2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
+tests                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.88% 
+portfolio                38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.79% 
+timer-stats-rubiks-cube  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+
+💻 Operating System: 
+Linux                    11 hrs 19 mins      ████████████████░░░░░░░░░   66.73% 
+Windows                  5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.27%
+
+```
 
 **I Mostly Code in Python** 
 
@@ -55,7 +78,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2022 01:43:02 UTC
+ Last Updated on 14/12/2022 01:34:20 UTC
 <!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
 
