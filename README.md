@@ -36,7 +36,7 @@ Young developper who likes create things !
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
@@ -78,7 +78,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2022 11:26:21 UTC
+ Last Updated on 18/12/2022 01:29:29 UTC
 <!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
 
