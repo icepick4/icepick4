@@ -38,7 +38,7 @@ Young developper who likes create things !
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44%20Thousand%20lines%20of%20code-blue)
 
@@ -46,18 +46,13 @@ Young developper who likes create things !
 
 ```text
 💬 Programming Languages: 
-Java                     27 mins             ████████████░░░░░░░░░░░░░   50.22% 
-PHP                      26 mins             ████████████░░░░░░░░░░░░░   49.06% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+PHP                      2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sae-sncf                 26 mins             ████████████░░░░░░░░░░░░░   49.06% 
-tp7_http                 16 mins             ███████░░░░░░░░░░░░░░░░░░   29.83% 
-Serveur-web              11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.1%
+sae-sncf                 2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  42 mins             ███████████████████░░░░░░   78.9% 
-Linux                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.1%
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +69,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2022 01:29:04 UTC
+ Last Updated on 30/12/2022 01:28:47 UTC
 <!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
 
