@@ -1,18 +1,20 @@
 <div align="center">
   
-# Rémi JARA
+
+
+# 💫 Rémi JARA
 
 Young developper who likes create things ! 
   
   [![Visit my portfolio !](https://img.shields.io/badge/Visit%20My%20portfolio!-%23DD0031?style=for-the-badge&logo=github)](http://remi-jara.fr)
   [![Follow me on LinkedIn !](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-%231572B6?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rémi-jara-516b30222/)
-# Interests
+# 🧍 Interests
 
   • I like playing video games, making video games 🎮  \
   • I love skating 🛹🤘 \
   • I enjoy using and discovering new technologies 💻 
 
- # Languages/Tools I use
+ # 💻 Languages/Tools I use
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -31,7 +33,7 @@ Young developper who likes create things !
   
   
   
-# Stats
+# 📊 Stats:
   
   </div>
   
@@ -73,6 +75,8 @@ C                        2 repos             ██░░░░░░░░░�
 
  Last Updated on 04/01/2023 01:32:23 UTC
 <!--END_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
+![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
 
 
