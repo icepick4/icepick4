@@ -42,6 +42,22 @@ Young developper who likes create things !
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43%20Thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+SCSS                     50 mins             ████████████████████░░░░░   80.91% 
+HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.62%
+
+🐱‍💻 Projects: 
+portfolio                1 hr 2 mins         █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  1 hr 2 mins         █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -55,7 +71,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 01:30:04 UTC
+ Last Updated on 04/01/2023 01:32:23 UTC
 <!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=gruvbox" />
 
