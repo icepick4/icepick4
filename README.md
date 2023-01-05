@@ -38,9 +38,9 @@ Young developper who likes create things !
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43%20Thousand%20lines%20of%20code-blue)
 
@@ -48,15 +48,19 @@ Young developper who likes create things !
 
 ```text
 💬 Programming Languages: 
-SCSS                     50 mins             ████████████████████░░░░░   80.91% 
-HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.62%
+CSS                      54 mins             ███████████░░░░░░░░░░░░░░   45.66% 
+SCSS                     50 mins             ██████████░░░░░░░░░░░░░░░   42.13% 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.01% 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
+PHP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
 
 🐱‍💻 Projects: 
-portfolio                1 hr 2 mins         █████████████████████████   100.0%
+portfolio                1 hr 2 mins         █████████████░░░░░░░░░░░░   52.07% 
+sae-sncf                 57 mins             ████████████░░░░░░░░░░░░░   47.93%
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.0%
+Windows                  1 hr 2 mins         █████████████░░░░░░░░░░░░   52.07% 
+Linux                    57 mins             ████████████░░░░░░░░░░░░░   47.93%
 
 ```
 
@@ -73,7 +77,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2023 01:32:23 UTC
+ Last Updated on 05/01/2023 01:34:52 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 
