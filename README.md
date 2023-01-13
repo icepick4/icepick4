@@ -38,7 +38,7 @@ Young developper who likes create things !
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -84,7 +84,7 @@ C                        2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/icepick4/icepick4/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/01/2023 19:27:46 UTC
+ Last Updated on 13/01/2023 01:41:48 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 
