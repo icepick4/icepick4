@@ -40,9 +40,9 @@ Young developper who likes create things !
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-198%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -80,7 +80,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2023 12:30:04 UTC
+ Last Updated on 20/01/2023 01:34:29 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 
