@@ -8,7 +8,7 @@ Young developper who likes create things !
   
   [![Visit my portfolio !](https://img.shields.io/badge/Visit%20My%20portfolio!-%23DD0031?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAh0lEQVR42mP4//8/AyEMBP9xyhGjmWID8MoTsjnIjIs0F8A03rgtAdYMwjcnyv3H5RUMzSCNT5+n/3/9ph3MBmmG0TCDCBrw41cVSBGYjYzxGgDT/PErAxija8blCuobgA8PrAEwzTgNgBkCizZiNOM0AB/GawC6IcgpEZtmnHkBlmzRMTa1ADiTlZ/o3P27AAAAAElFTkSuQmCC)](http://remi-jara.fr)
   [![Follow me on LinkedIn !](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-%231572B6?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rémi-jara-516b30222/)
-  [![Awsome project !](https://img.shields.io/badge/Awsome%20project!-%23DP0031?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAASUExURQAAALAAAP9NTf/Pz/+FhQAAALVThcAAAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+cBFg0qEPWD73YAAABOSURBVAjXZU3BEcAwCCIbGDeIbpC4gd1/pqKPPFoeHIcIwB9jSjGgtigUw8yEDPWz11SHxZM0A54ntnmimRrt84pOMo/+rYZuq065K1+88yIKoTdWYJIAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDEtMjJUMTM6NDI6MTUrMDA6MDC74f9wAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTAxLTIyVDEzOjQyOjE1KzAwOjAwyrxHzAAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0wMS0yMlQxMzo0MjoxNiswMDowMKxBfI4AAAAASUVORK5CYII=)](https://icepick4.github.io/bacon-slizzing/)
+  [![Awesome project !](https://img.shields.io/badge/Awsome%20project!-%23DP0031?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAASUExURQAAALAAAP9NTf/Pz/+FhQAAALVThcAAAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+cBFg0qEPWD73YAAABOSURBVAjXZU3BEcAwCCIbGDeIbpC4gd1/pqKPPFoeHIcIwB9jSjGgtigUw8yEDPWz11SHxZM0A54ntnmimRrt84pOMo/+rYZuq065K1+88yIKoTdWYJIAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDEtMjJUMTM6NDI6MTUrMDA6MDC74f9wAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTAxLTIyVDEzOjQyOjE1KzAwOjAwyrxHzAAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0wMS0yMlQxMzo0MjoxNiswMDowMKxBfI4AAAAASUVORK5CYII=)](https://icepick4.github.io/bacon-slizzing/)
 # 🧍 Interests
 
   • I like playing video games, making video games 🎮  \
@@ -31,8 +31,6 @@ Young developper who likes create things !
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  
-  
   
 # 📊 Stats:
   
@@ -84,7 +82,6 @@ C                        2 repos             ██░░░░░░░░░�
  Last Updated on 22/01/2023 01:43:18 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
-
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
 
 
