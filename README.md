@@ -37,32 +37,32 @@ Young developper who likes create things !
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-205%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   43.23% 
-SCSS                     2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.6% 
-TypeScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
-HTML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
+Python                   2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   30.73% 
+SCSS                     2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   26.88% 
+TypeScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+HTML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
+Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45%
 
 🐱‍💻 Projects: 
-portfolio                4 hrs 32 mins       ███████████░░░░░░░░░░░░░░   46.05% 
-discord-one-piece-game   2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19% 
-one-pyece                1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72% 
-league-viewer            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
-tp                       12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1%
+portfolio                4 hrs 32 mins       ████████████░░░░░░░░░░░░░   50.3% 
+discord-one-piece-game   2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   26.43% 
+onepyece                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+league-viewer            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
+one-pyece                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
 
 💻 Operating System: 
-Linux                    6 hrs 17 mins       ████████████████░░░░░░░░░   63.77% 
-Windows                  3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.23%
+Linux                    6 hrs 45 mins       ██████████████████░░░░░░░   74.8% 
+Windows                  2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.2%
 
 ```
 
@@ -79,7 +79,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2023 01:33:18 UTC
+ Last Updated on 07/02/2023 01:31:35 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
