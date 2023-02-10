@@ -2,17 +2,18 @@
   
 
 
-# 💫 Rémi JARA
+# ⌨️ Rémi JARA
 
 Young developper who likes create things ! 
   
-  [![Visit my portfolio !](https://img.shields.io/badge/Visit%20My%20portfolio!-%23DD0031?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAh0lEQVR42mP4//8/AyEMBP9xyhGjmWID8MoTsjnIjIs0F8A03rgtAdYMwjcnyv3H5RUMzSCNT5+n/3/9ph3MBmmG0TCDCBrw41cVSBGYjYzxGgDT/PErAxija8blCuobgA8PrAEwzTgNgBkCizZiNOM0AB/GawC6IcgpEZtmnHkBlmzRMTa1ADiTlZ/o3P27AAAAAElFTkSuQmCC)](http://remi-jara.fr)
+  [![Visit my portfolio !](https://img.shields.io/badge/Visit%20My%20portfolio!-%23DD0031?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAh0lEQVR42mP4//8/AyEMBP9xyhGjmWID8MoTsjnIjIs0F8A03rgtAdYMwjcnyv3H5RUMzSCNT5+n/3/9ph3MBmmG0TCDCBrw41cVSBGYjYzxGgDT/PErAxija8blCuobgA8PrAEwzTgNgBkCizZiNOM0AB/GawC6IcgpEZtmnHkBlmzRMTa1ADiTlZ/o3P27AAAAAElFTkSuQmCC)](https://remi-jara.fr)
   [![Follow me on LinkedIn !](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-%231572B6?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rémi-jara-516b30222/)
   [![Awesome project !](https://img.shields.io/badge/Awesome%20project!-%23DP0031?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAASUExURQAAALAAAP9NTf/Pz/+FhQAAALVThcAAAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+cBFg0qEPWD73YAAABOSURBVAjXZU3BEcAwCCIbGDeIbpC4gd1/pqKPPFoeHIcIwB9jSjGgtigUw8yEDPWz11SHxZM0A54ntnmimRrt84pOMo/+rYZuq065K1+88yIKoTdWYJIAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDEtMjJUMTM6NDI6MTUrMDA6MDC74f9wAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTAxLTIyVDEzOjQyOjE1KzAwOjAwyrxHzAAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0wMS0yMlQxMzo0MjoxNiswMDowMKxBfI4AAAAASUVORK5CYII=)](https://icepick4.github.io/bacon-slizzing/)
+  
   # 🏴‍☠️ Current project
   
   I'm currently working on a Python package which is an API wrapper for the french [OnePiece API](https://api-onepiece.com/) \
-  It is called OnePyece in reference to Python 
+  Do not hesitate to have a look at it !
   
   <a href="https://github.com/icepick4/onepyece">
     <img src="https://img.shields.io/badge/OnePyece-fff?style=for-the-badge&logo=python&logoColor=blue" height="50px"/>
@@ -33,6 +34,7 @@ Young developper who likes create things !
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -43,9 +45,8 @@ Young developper who likes create things !
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
   
-# 📊 Stats:
+# 📊 Stats
   
   </div>
   
