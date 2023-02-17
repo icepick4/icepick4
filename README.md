@@ -55,24 +55,20 @@ Young developper who likes create things !
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-301%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   21 mins             ████████████░░░░░░░░░░░░░   50.41 % 
-TypeScript               14 mins             ████████░░░░░░░░░░░░░░░░░   33.82 % 
-Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python                   10 mins             ███████████████░░░░░░░░░░   61.33 % 
+Markdown                 6 mins              █████████░░░░░░░░░░░░░░░░   38.67 % 
 
 🐱‍💻 Projects: 
-onepyece                 28 mins             ████████████████░░░░░░░░░   65.61 % 
-portfolio                14 mins             ████████░░░░░░░░░░░░░░░░░   33.82 % 
-daily-steam-stats        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+onepyece                 16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    42 mins             █████████████████████████   100.00 % 
+Linux                    16 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -89,7 +85,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 01:46:13 UTC
+ Last Updated on 17/02/2023 01:40:40 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
