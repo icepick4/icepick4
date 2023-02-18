@@ -61,14 +61,13 @@ Young developper who likes create things !
 
 ```text
 💬 Programming Languages: 
-Python                   10 mins             ███████████████░░░░░░░░░░   61.33 % 
-Markdown                 6 mins              █████████░░░░░░░░░░░░░░░░   38.67 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-onepyece                 16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -85,7 +84,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2023 01:40:40 UTC
+ Last Updated on 18/02/2023 01:36:23 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
