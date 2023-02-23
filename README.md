@@ -53,9 +53,9 @@ Young developper who likes create things !
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369.4%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -68,23 +68,22 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ██████████░░░░░░░░░░░░░░░   42.86 % 
-Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-
+Python                   12 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
- Last Updated on 22/02/2023 01:28:02 UTC
+
+ Last Updated on 23/02/2023 01:26:34 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
