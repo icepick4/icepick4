@@ -51,9 +51,9 @@ Young developper who likes create things !
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369.4%20thousand%20lines%20of%20code-blue)
 
@@ -61,13 +61,19 @@ Young developper who likes create things !
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 3 mins         █████████████░░░░░░░░░░░░   50.89 % 
+C                        1 hr                ████████████░░░░░░░░░░░░░   48.70 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ex1                      47 mins             █████████░░░░░░░░░░░░░░░░   37.89 % 
+basic-music-player       46 mins             █████████░░░░░░░░░░░░░░░░   37.04 % 
+onepyece                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+tp                       13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Terminal-Tetris          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +89,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 01:26:34 UTC
+ Last Updated on 24/02/2023 01:35:34 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
