@@ -51,32 +51,32 @@ Young developper who likes create things !
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-391.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-391.5%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-TypeScript               2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-PHP                      1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-SCSS                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-C                        1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Python                   3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+SCSS                     3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+TypeScript               3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+PHP                      1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+HTML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 🐱‍💻 Projects: 
-league-viewer            4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-discord-one-piece-game   2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-osu-web                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-tp3                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Sonic-Game               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+league-viewer            5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+biomeskateboard-clone-ui 2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+discord-one-piece-game   2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+osu-web                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+tp3                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 💻 Operating System: 
-Linux                    8 hrs 58 mins       ██████████████░░░░░░░░░░░   54.36 % 
-Windows                  7 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.64 % 
+Windows                  10 hrs 9 mins       █████████████░░░░░░░░░░░░   52.52 % 
+Linux                    9 hrs 10 mins       ████████████░░░░░░░░░░░░░   47.48 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2023 01:42:55 UTC
+ Last Updated on 03/03/2023 03:24:46 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
