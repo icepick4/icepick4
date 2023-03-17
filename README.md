@@ -51,32 +51,32 @@ Young developper who likes create things !
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-485.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   31.82 % 
-Vue.js                   11 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   31.46 % 
-Python                   5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Bash                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Kotlin                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TypeScript               12 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   34.11 % 
+Vue.js                   11 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Python                   5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🐱‍💻 Projects: 
-capitalympics-api        13 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   37.64 % 
-capitalympics            12 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   35.05 % 
-one-pyece                3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-project                  2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-vue-app                  1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+capitalympics-api        15 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   41.65 % 
+capitalympics            13 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
+one-pyece                3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+vue-app                  1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+project                  1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 💻 Operating System: 
-Windows                  22 hrs 19 mins      ████████████████░░░░░░░░░   62.19 % 
-Linux                    13 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   37.81 % 
+Windows                  24 hrs 42 mins      █████████████████░░░░░░░░   66.01 % 
+Linux                    12 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   33.99 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2023 01:26:28 UTC
+ Last Updated on 17/03/2023 01:24:37 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
