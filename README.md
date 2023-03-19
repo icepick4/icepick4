@@ -53,9 +53,19 @@ Young developper who likes create things !
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-487.6%20thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                344 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+🌆 Daytime                617 commits         ██████████░░░░░░░░░░░░░░░   40.46 % 
+🌃 Evening                484 commits         ████████░░░░░░░░░░░░░░░░░   31.74 % 
+🌙 Night                  80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,7 +102,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2023 10:26:19 UTC
+ Last Updated on 19/03/2023 12:09:21 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
