@@ -56,7 +56,7 @@ Young developper who likes create things !
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-713%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -74,18 +74,18 @@ Young developper who likes create things !
 
 ```text
 💬 Programming Languages: 
-PHP                      10 hrs 5 mins       ████████████████░░░░░░░░░   62.16 % 
-HTML                     5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.59 % 
-XML                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+PHP                      8 hrs 30 mins       ██████████████████░░░░░░░   70.81 % 
+HTML                     2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+XML                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-plugins                  11 hrs 16 mins      █████████████████░░░░░░░░   69.44 % 
-api                      4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.56 % 
+plugins                  7 hrs 54 mins       ████████████████░░░░░░░░░   65.82 % 
+api                      4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.18 % 
 
 💻 Operating System: 
-Linux                    16 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +101,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2023 01:25:02 UTC
+ Last Updated on 30/05/2023 01:25:51 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
