@@ -54,7 +54,7 @@ Young developper who likes create things !
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
@@ -74,18 +74,18 @@ Young developper who likes create things !
 
 ```text
 💬 Programming Languages: 
-PHP                      9 hrs 2 mins        ██████████████████░░░░░░░   70.24 % 
-HTML                     3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+PHP                      7 hrs 50 mins       ██████████████████░░░░░░░   72.05 % 
+HTML                     2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-plugins                  9 hrs 49 mins       ███████████████████░░░░░░   76.29 % 
-api                      3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+plugins                  8 hrs 4 mins        ███████████████████░░░░░░   74.18 % 
+api                      2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
 
 💻 Operating System: 
-Linux                    12 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +101,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2023 01:41:58 UTC
+ Last Updated on 01/06/2023 02:00:58 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
