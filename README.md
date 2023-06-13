@@ -56,7 +56,7 @@ Young developper who likes create things !
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -74,19 +74,19 @@ Young developper who likes create things !
 
 ```text
 💬 Programming Languages: 
-PHP                      18 hrs 34 mins      ██████████████████████░░░   88.72 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+PHP                      18 hrs 5 mins       ██████████████████████░░░   88.47 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🐱‍💻 Projects: 
-api                      14 hrs 12 mins      █████████████████░░░░░░░░   67.81 % 
-plugins                  6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.17 % 
-php-imap                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+api                      13 hrs 59 mins      █████████████████░░░░░░░░   68.41 % 
+plugins                  6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.56 % 
+php-imap                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    20 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2023 01:45:59 UTC
+ Last Updated on 13/06/2023 01:38:29 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
