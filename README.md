@@ -19,10 +19,13 @@ Young developper who likes create things !
     <img src="https://img.shields.io/badge/Capitalympics-fff?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="50px"/>
   </a>
   
+Try the website on the current version right here : https://capitalympics.com and sign up to start the experience.
+
 # 🧍 Interests
 
   • I like playing video games, making video games 🎮  \
   • I love skating 🛹🤘 \
+  • I'm listening to hard rock/metal, electro 🤘🎶 and Lofi while coding 😍
   • I enjoy using and discovering new technologies 💻  
 
  # 💻 Languages/Tools I use
