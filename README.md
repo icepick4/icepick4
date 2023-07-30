@@ -25,7 +25,7 @@ Try the website on the current version right here : https://capitalympics.com an
 
   • I like playing video games, making video games 🎮  \
   • I love skating 🛹🤘 \
-  • I'm listening to hard rock/metal, electro 🤘🎶 and Lofi while coding 😍
+  • I'm listening to hard rock/metal, electro 🤘🎶 and Lofi while coding 😍 \
   • I enjoy using and discovering new technologies 💻  
 
  # 💻 Languages/Tools I use
