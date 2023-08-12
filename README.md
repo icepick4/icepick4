@@ -59,7 +59,7 @@ Try the website on the current version right here : https://capitalympics.com an
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -77,18 +77,18 @@ Try the website on the current version right here : https://capitalympics.com an
 
 ```text
 💬 Programming Languages: 
-Vue.js                   10 hrs 7 mins       ██████████████████████░░░   87.27 % 
-TypeScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Vue.js                   2 hrs 11 mins       █████████████████░░░░░░░░   68.61 % 
+TypeScript               36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🐱‍💻 Projects: 
-capitalympics            11 hrs 6 mins       ████████████████████████░   95.68 % 
-capitalympics-api        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+capitalympics            2 hrs 55 mins       ███████████████████████░░   91.57 % 
+capitalympics-api        16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 💻 Operating System: 
-Windows                  11 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +104,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2023 01:05:46 UTC
+ Last Updated on 12/08/2023 01:05:06 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
