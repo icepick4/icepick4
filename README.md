@@ -57,7 +57,7 @@ Try the website on the current version right here : https://capitalympics.com an
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,13 +77,17 @@ Try the website on the current version right here : https://capitalympics.com an
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             █████████████████████████   100.00 % 
+Vue.js                   33 mins             ███████████████░░░░░░░░░░   58.15 % 
+Python                   20 mins             █████████░░░░░░░░░░░░░░░░   35.86 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🐱‍💻 Projects: 
-scripts-python           20 mins             █████████████████████████   100.00 % 
+portfolio-lea            37 mins             ████████████████░░░░░░░░░   64.14 % 
+scripts-python           20 mins             █████████░░░░░░░░░░░░░░░░   35.86 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +103,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2023 01:08:50 UTC
+ Last Updated on 05/09/2023 01:06:58 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
