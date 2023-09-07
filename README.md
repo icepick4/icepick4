@@ -57,7 +57,7 @@ Try the website on the current version right here : https://capitalympics.com an
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-895%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,10 +66,10 @@ Try the website on the current version right here : https://capitalympics.com an
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                367 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-🌆 Daytime                780 commits         ██████████░░░░░░░░░░░░░░░   40.62 % 
-🌃 Evening                625 commits         ████████░░░░░░░░░░░░░░░░░   32.55 % 
-🌙 Night                  148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+🌞 Morning                373 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+🌆 Daytime                792 commits         ██████████░░░░░░░░░░░░░░░   40.47 % 
+🌃 Evening                635 commits         ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌙 Night                  157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 ```
 
 
@@ -77,15 +77,16 @@ Try the website on the current version right here : https://capitalympics.com an
 
 ```text
 💬 Programming Languages: 
-Vue.js                   33 mins             ███████████████████████░░   90.66 % 
-TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Vue.js                   1 hr 49 mins        ██████████████████████░░░   87.39 % 
+TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🐱‍💻 Projects: 
-portfolio-lea            37 mins             █████████████████████████   100.00 % 
+portfolio-lea            2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +102,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2023 01:08:03 UTC
+ Last Updated on 07/09/2023 01:08:40 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
