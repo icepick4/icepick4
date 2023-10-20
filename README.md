@@ -16,7 +16,7 @@ Young developper who likes create things !
   This app allows users to easily learn and memorize the capitals and flags of all the world's nations.
   
   <a href="https://github.com/icepick4/capitalympics">
-    <img src="https://img.shields.io/badge/Capitalympics-fff?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="50px"/>
+    <img src="https://img.shields.io/badge/Capitalympics-808080?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="50px"/>
   </a>
   
 Try the website on the current version right here : https://capitalympics.com and sign up to start the experience.
