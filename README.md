@@ -67,14 +67,10 @@ Try the website on the current version right here : https://capitalympics.com an
 
 ```text
 💬 Programming Languages: 
-Vue.js                   1 hr 50 mins        ███████████████░░░░░░░░░░   60.06 % 
-TypeScript               54 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-Java                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Vue.js                   8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 54 mins       ████████████████████████░   95.47 % 
-Windows                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +86,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2023 01:09:46 UTC
+ Last Updated on 26/11/2023 01:16:20 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
