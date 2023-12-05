@@ -57,7 +57,7 @@ Try the website on the current version right here : https://capitalympics.com an
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-956%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -67,15 +67,15 @@ Try the website on the current version right here : https://capitalympics.com an
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 mins             ███████████████░░░░░░░░░░   59.78 % 
-YAML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-Text                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   2 hrs 2 mins        █████████████████░░░░░░░░   69.40 % 
+TypeScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Windows                  36 mins             ████████████████████░░░░░   78.15 % 
-Linux                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Windows                  2 hrs 46 mins       ████████████████████████░   94.16 % 
+Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2023 01:13:37 UTC
+ Last Updated on 05/12/2023 01:14:14 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
