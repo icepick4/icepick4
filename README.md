@@ -57,7 +57,7 @@ Try the website on the current version right here : https://capitalympics.com an
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-959%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -67,15 +67,13 @@ Try the website on the current version right here : https://capitalympics.com an
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        █████████████████░░░░░░░░   69.40 % 
-TypeScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Python                   2 hrs 55 mins       ███████████████████████░░   93.68 % 
+Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       ████████████████████████░   94.16 % 
-Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Windows                  3 hrs 3 mins        ████████████████████████░   97.48 % 
+Linux                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +89,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 01:14:14 UTC
+ Last Updated on 06/12/2023 01:13:54 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
