@@ -51,7 +51,11 @@ Try the website on the current version right here : https://capitalympics.com an
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  
+
+# 🎉 Hacktoberfest
+
+[![An image of @icepick4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/icepick4)](https://holopin.io/@icepick4)
+
 # 📊 Stats
   
   </div>
