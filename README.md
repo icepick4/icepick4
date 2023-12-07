@@ -63,7 +63,7 @@ Try the website on the current version right here : https://capitalympics.com an
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-962%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -71,7 +71,7 @@ Try the website on the current version right here : https://capitalympics.com an
 
 > 📦 866.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,257 Contributions in the Year 2023
+> 🏆 1,259 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,21 +82,21 @@ Try the website on the current version right here : https://capitalympics.com an
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-🌆 Daytime                902 commits         ██████████░░░░░░░░░░░░░░░   39.77 % 
-🌃 Evening                779 commits         █████████░░░░░░░░░░░░░░░░   34.35 % 
-🌙 Night                  230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+🌞 Morning                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+🌆 Daytime                904 commits         ██████████░░░░░░░░░░░░░░░   39.82 % 
+🌃 Evening                779 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
+🌙 Night                  230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Wednesday                360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Friday                   342 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Saturday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Sunday                   355 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Monday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Wednesday                362 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Thursday                 290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Friday                   342 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Saturday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Sunday                   355 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
 ```
 
 
@@ -133,7 +133,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 13:47:33 UTC
+ Last Updated on 07/12/2023 01:13:38 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
