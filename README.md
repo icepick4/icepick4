@@ -61,7 +61,7 @@ Try the website on the current version right here : https://capitalympics.com an
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-973%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-976%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -104,18 +104,16 @@ Sunday                   355 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 32 mins       ███████████████████████░░   91.30 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               2 hrs 33 mins       ███████████████████░░░░░░   75.58 % 
+HTML                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-ndi                      5 hrs 42 mins       ████████████████████████░   94.06 % 
-tp-angular               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+tp-angular               3 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +129,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2023 01:12:25 UTC
+ Last Updated on 17/12/2023 01:17:48 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
