@@ -61,9 +61,9 @@ Try the website on the current version right here : https://capitalympics.com an
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-978%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -104,20 +104,21 @@ Sunday                   355 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 1 min         ███████████████░░░░░░░░░░   58.54 % 
-HTML                     1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Vue.js                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+TypeScript               3 hrs 4 mins        █████████████░░░░░░░░░░░░   50.04 % 
+HTML                     1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Vue.js                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+CSS                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🐱‍💻 Projects: 
-tp-angular               4 hrs 26 mins       █████████████████████░░░░   85.94 % 
-capitalympics            40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-capitalympics-api        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+tp-angular               5 hrs 24 mins       ██████████████████████░░░   88.08 % 
+capitalympics            40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+capitalympics-api        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+advent-of-code           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    3 hrs 22 mins       ████████████████░░░░░░░░░   65.41 % 
-Windows                  1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.59 % 
+Linux                    3 hrs 22 mins       ██████████████░░░░░░░░░░░   54.98 % 
+Windows                  2 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.02 % 
 ```
 
 **I Mostly Code in Python** 
@@ -133,7 +134,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2023 01:00:03 UTC
+ Last Updated on 21/12/2023 01:11:51 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
