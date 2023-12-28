@@ -104,18 +104,13 @@ Sunday                   355 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     19 mins             ████████░░░░░░░░░░░░░░░░░   32.51 % 
-CSS                      15 mins             ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-JSON                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-INI                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tp-angular               58 mins             █████████████████████████   99.39 % 
-advent-of-code           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +126,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2023 01:10:33 UTC
+ Last Updated on 28/12/2023 01:10:27 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
