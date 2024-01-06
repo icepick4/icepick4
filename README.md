@@ -61,7 +61,7 @@ Try the website on the current version right here : https://capitalympics.com an
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -104,13 +104,17 @@ Sunday                   355 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     13 mins             ███████████████████████░░   90.19 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+capitalympics            14 mins             ████████████████████████░   94.58 % 
+capitalympics-api        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +130,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2024 01:12:58 UTC
+ Last Updated on 06/01/2024 01:12:08 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
