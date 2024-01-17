@@ -67,7 +67,7 @@ Try the website on the current version right here : https://capitalympics.com an
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,9 +75,9 @@ Try the website on the current version right here : https://capitalympics.com an
 
 **🐱 My GitHub Data** 
 
-> 📦 867.5 kB Used in GitHub's Storage 
+> 📦 867.6 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2024
+> 🏆 94 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,21 +88,21 @@ Try the website on the current version right here : https://capitalympics.com an
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                370 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-🌆 Daytime                969 commits         ██████████░░░░░░░░░░░░░░░   41.15 % 
-🌃 Evening                786 commits         ████████░░░░░░░░░░░░░░░░░   33.38 % 
-🌙 Night                  230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+🌞 Morning                371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+🌆 Daytime                970 commits         ██████████░░░░░░░░░░░░░░░   41.15 % 
+🌃 Evening                786 commits         ████████░░░░░░░░░░░░░░░░░   33.35 % 
+🌙 Night                  230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   343 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Tuesday                  335 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Wednesday                368 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Thursday                 306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Friday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Saturday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Sunday                   355 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Monday                   343 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Tuesday                  337 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Wednesday                368 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Thursday                 306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Friday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Saturday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Sunday                   355 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 ```
 
 
@@ -110,13 +110,18 @@ Sunday                   355 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   6 hrs 13 mins       ████████████████████░░░░░   79.28 % 
+TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Prisma                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Docker                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+capitalympics            6 hrs 28 mins       █████████████████████░░░░   82.40 % 
+capitalympics-api        1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +137,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2024 01:14:12 UTC
+ Last Updated on 17/01/2024 01:14:43 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
