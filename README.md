@@ -67,7 +67,7 @@ Try the website on the current version right here : https://capitalympics.com an
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C139%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -77,7 +77,7 @@ Try the website on the current version right here : https://capitalympics.com an
 
 > 📦 871.3 kB Used in GitHub's Storage 
  > 
-> 🏆 387 Contributions in the Year 2024
+> 🏆 388 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,21 +110,22 @@ Sunday                   425 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   9 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.07 % 
-TypeScript               7 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Vue.js                   10 hrs              ███████████░░░░░░░░░░░░░░   43.64 % 
+TypeScript               7 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.63 % 
+YAML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🐱‍💻 Projects: 
-lyrixtranslate           17 hrs 50 mins      ██████████████████████░░░   89.81 % 
-capitalympics-api        1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-translate                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-lyricslingua-lambda      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-capitalympics            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+lyrixtranslate           18 hrs 15 mins      ████████████████████░░░░░   79.60 % 
+ansible-tp               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+capitalympics-api        1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+lpdevops-lazy-ansible    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+translate                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Windows                  19 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 3 mins       ████████████████████████░   96.14 % 
+WSL                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +141,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2024 01:09:09 UTC
+ Last Updated on 05/03/2024 01:07:57 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
