@@ -67,9 +67,9 @@ Try the website on the current version right here : https://capitalympics.com an
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C170%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C171%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -110,21 +110,21 @@ Sunday                   450 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   12 hrs 15 mins      █████████████░░░░░░░░░░░░   50.99 % 
-Python                   4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-JavaScript               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-CSS                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Vue.js                   11 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.67 % 
+Python                   4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+TypeScript               3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+JavaScript               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+CSS                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🐱‍💻 Projects: 
-lyrixtranslate           12 hrs 18 mins      █████████████░░░░░░░░░░░░   51.18 % 
-onepiecedle              8 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.50 % 
-tp1-starter              1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-tp2-starter              51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-capitalympics-api        32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+lyrixtranslate           11 hrs 56 mins      ████████████░░░░░░░░░░░░░   49.47 % 
+onepiecedle              8 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.37 % 
+tp1-starter              1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+tp2-starter              51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+capitalympics-api        32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Windows                  24 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  24 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +140,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2024 01:09:27 UTC
+ Last Updated on 16/03/2024 01:07:18 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
