@@ -16,16 +16,16 @@ Young developper who likes create things !
   [![Follow me on LinkedIn !](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-%231572B6?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rémi-jara-516b30222/)
   [![Awesome project !](https://img.shields.io/badge/Awesome%20project!-%23DP0031?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAASUExURQAAALAAAP9NTf/Pz/+FhQAAALVThcAAAAABdFJOUwBA5thmAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+cBFg0qEPWD73YAAABOSURBVAjXZU3BEcAwCCIbGDeIbpC4gd1/pqKPPFoeHIcIwB9jSjGgtigUw8yEDPWz11SHxZM0A54ntnmimRrt84pOMo/+rYZuq065K1+88yIKoTdWYJIAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDEtMjJUMTM6NDI6MTUrMDA6MDC74f9wAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTAxLTIyVDEzOjQyOjE1KzAwOjAwyrxHzAAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0wMS0yMlQxMzo0MjoxNiswMDowMKxBfI4AAAAASUVORK5CYII=)](https://icepick4.github.io/bacon-slizzing/)
   
-  # 🌍 Current project
+  # 🎵 Current project
   
-  I'm currently working on a fullstack web application written with Vue.Js for the front and node.js for the back. \
-  This app allows users to easily learn and memorize the capitals and flags of all the world's nations.
+  I'm currently working on a fullstack web application written with Nuxt, with Mongo, Stripe, OpenAI API, Nuxt UI. \
+  This app allows users to easily translate any song in any language with AI.
   
-  <a href="https://github.com/icepick4/capitalympics">
-    <img src="https://img.shields.io/badge/Capitalympics-808080?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="50px"/>
+  <a href="https://www.lyricslingua.com">
+    <img src="https://img.shields.io/badge/LyricsLingua-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"" height="50px"/>
   </a>
   
-Try the website on the current version right here : https://capitalympics.com and sign up to start the experience.
+Try it for free here : https://www.lyricslingua.com and sign up to start the experience.
 
 # 🧍 Interests
 
