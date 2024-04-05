@@ -6,11 +6,6 @@
  
 
 Young developper who likes create things ! 
-
- <a href="https://www.buymeacoffee.com/remijara"
-                        ><img
-                            src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=remijara&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff"
-                    /></a>
   
   [![Visit my portfolio !](https://img.shields.io/badge/Visit%20My%20portfolio!-%23DD0031?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAh0lEQVR42mP4//8/AyEMBP9xyhGjmWID8MoTsjnIjIs0F8A03rgtAdYMwjcnyv3H5RUMzSCNT5+n/3/9ph3MBmmG0TCDCBrw41cVSBGYjYzxGgDT/PErAxija8blCuobgA8PrAEwzTgNgBkCizZiNOM0AB/GawC6IcgpEZtmnHkBlmzRMTa1ADiTlZ/o3P27AAAAAElFTkSuQmCC)](https://remi-jara.fr)
   [![Follow me on LinkedIn !](https://img.shields.io/badge/Follow%20me%20on%20LinkedIn!-%231572B6?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rémi-jara-516b30222/)
@@ -19,7 +14,8 @@ Young developper who likes create things !
   # 🎵 Current project
   
   I'm currently working on a fullstack web application written with Nuxt, with Mongo, Stripe, OpenAI API, Nuxt UI. \
-  This app allows users to easily translate any song in any language with AI.
+  This app allows users to easily translate any song in any language with AI. \
+  I developed this in an educational purpose.
   
   <a href="https://www.lyricslingua.com">
     <img src="https://img.shields.io/badge/LyricsLingua-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"" height="50px"/>
@@ -30,8 +26,8 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
 # 🧍 Interests
 
   • I like playing video games, making video games 🎮  \
-  • I love skating 🛹🤘 \
-  • I'm listening to hard rock/metal, electro 🤘🎶 and Lofi while coding 😍 \
+  • I love skateboard, basketball, running 🛹🏀🤘 \
+  • I'm listening to rock/metal/pop punk/electro 🤘🎶 and Lofi while coding 😍 \
   • I enjoy using and discovering new technologies 💻  
 
  # 💻 Languages/Tools I use
@@ -136,11 +132,12 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ```
 
 
-
-
  Last Updated on 05/04/2024 01:10:05 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
 
-
+ <a href="https://www.buymeacoffee.com/remijara"
+                        ><img
+                            src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=remijara&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff"
+                    /></a>
