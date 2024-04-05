@@ -13,12 +13,12 @@ Young developper who likes create things !
   
   # 🎵 Current project
   
-  I'm currently working on a fullstack web application written with Nuxt, with Mongo, Stripe, OpenAI API, Nuxt UI. \
+  I'm currently working on a fullstack web application written with Nuxt, with MongoDB, Stripe, OpenAI API, Nuxt UI, TailwindCSS. \
   This app allows users to easily translate any song in any language with AI. \
   I developed this in an educational purpose.
   
   <a href="https://www.lyricslingua.com">
-    <img src="https://img.shields.io/badge/LyricsLingua-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"" height="50px"/>
+    <img src="https://img.shields.io/badge/LyricsLingua-23C55F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAJqUExURQAAAAD/AHe+fnnAgHvBgXbAfnS+e3nAgHa/fXu9hKrUqnO8eXe+f5/fn3K9eHa+fXS+e4C/gG+7d3G8eIDfn3G7eHO8enG9eHO+e4DfgG+8dm+9d225dIC/n0ydUlajW2CfYEWXS0aYTWC/gEaXTEuaUEeYTU2aUkiYTk+dVKqqqk6cVEiYTkmZTzZmRyQ2PyM2PiI1PSM2PyM2PyM3QEGDTEmZT0qZT0eYTVaiXU2ZTVOfWVWfW0RxTy1ERCg+RCg5PkqOVVWiVVWqVW67dZPMmLjdu7fdu7bdun3ChLrfvf////7+/o7KlHe7fYC+hoPBiIXDioG/hnG6eFOOWS5OMStKLkdlSniWe3SSd0ZkSSxKLjNWNmKnaGy4cxssHAAAAAMDAwoKCgICAhAQEH9/f15eXggICAQEBAkJCQEBATlgPWu3chIeE0FBQbm5uc7Ozp+fnyIiInR0dCEhIUdHR9XV1ZqamiAgIDBSMxYWFpKSkoGBgZ6enpiYmHFxcXZ2dhsbG76+vouLi6CgoHx8fCMjI66uroKCgoaGhsfHx319fWtra0BAQMHBwYiIiBISEhcXF5ubm4+Pj4ODg5eXl3JychoaGoyMjIWFhXp6ekRERJycnI6OjigoKD4+Ph4eHlBQUKioqFmpYFenXlWkXA8cERQUFBwcHA8PD1lZWV1dXQcHBxUVFR0dHQ4ODihMK12sY0KVSCZTKQgTCQgRCA8ZEGZwZ3iBeHV+dT1HPgoUCw4bDzp8PkKUSDZ4Pi9oOjJrPUF6S0N8TUB4SjJrPDBpOjyFQzFlQiE6PDqARS9fQR4wOzl9RdKiF1oAAABEdFJOUwABR9nt7e3tuh8GyoUI15WVCNeVCNeV15UIldfXCNeVCNeVCNeV15XVkgOD8fv7+/v7+/z8/Pz8300KKC0tLS0tLSEDjfZiwgAAAAFiS0dES2kLhVAAAAAHdElNRQfoBAULHw+lLZlTAAABx0lEQVRIx2NgGAWjgFqAkYmZBQFY2dAAO5IkBydIAxe3C9GAB6SBlw/CcXUDAXeswMMTooYfWYOXN27g40svDQIgDYJCEI6fPxwEBMJBQBBYJBiiRhikQUQUzA4JDYOD8AgYiIyKBovExIIViSGcFBefkJCYlJwABimpMJCWnpCQkZmVkJWN7oec3OS8/ILCIrCGrGKYhpKErNL8svKKhEokDeIQDVXl1TW1dRAN9VD1DRkJjU3NNS2t6RANEiANkkIQDW3tHamdXWANmd1QDT0JCb19qan91RMgGqTANkhDNEycNHnK1KlgDSUwF01LTpjeNGPm1FlQG4SR/ZA4e07L3HlgDfPhnl6QkLBw6qLOeSh+kFm8ZMmSpcsSEpevWJkF1rAKrmH1moTEtevWJyRsAKpZshEccbJym0Bg85atMLBt+w4Y2LlrN1hoz16wInmQBgVFMHvf/gMwcPDQYTg4chQkcuw4WM0mJZAGZRUI58RJPOAURI0qOC2pQTinz+ABZyFq1OmkQYN4DZogDVraOrogoKcPAgaGaMBI39jY2MTUDAjMLSzB5YyVtQ0I2NqBgL0DGrAHCzuClTg5D3SZOAqGEwAAHDjHDC00GxwAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDQtMDVUMTE6MzE6MTUrMDA6MDBrJz/zAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTA0LTA1VDExOjMxOjE1KzAwOjAwGnqHTwAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNC0wNC0wNVQxMTozMToxNSswMDowME1vppAAAAAASUVORK5CYII=" height="60px"/>
   </a>
   
 Try it for free here : https://www.lyricslingua.com and sign up to start the experience.
