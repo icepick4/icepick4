@@ -63,15 +63,13 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 874.1 kB Used in GitHub's Storage 
+> 📦 874.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,46 +77,6 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                547 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-🌆 Daytime                1534 commits        ███████████░░░░░░░░░░░░░░   45.44 % 
-🌃 Evening                1039 commits        ████████░░░░░░░░░░░░░░░░░   30.78 % 
-🌙 Night                  256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Tuesday                  503 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Wednesday                581 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Thursday                 435 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Friday                   520 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Saturday                 429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Sunday                   474 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               42 mins             █████████████████░░░░░░░░   69.42 % 
-TypeScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-SCSS                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-🐱‍💻 Projects: 
-tp3-starter              43 mins             ██████████████████░░░░░░░   71.06 % 
-portfolio                17 mins             ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-lyrixtranslate           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-
-💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -132,7 +90,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 01:09:32 UTC
+ Last Updated on 12/04/2024 01:10:42 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
