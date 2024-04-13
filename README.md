@@ -63,6 +63,8 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
   </div>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
@@ -77,6 +79,43 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                510 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+🌆 Daytime                1414 commits        ███████████░░░░░░░░░░░░░░   44.83 % 
+🌃 Evening                981 commits         ████████░░░░░░░░░░░░░░░░░   31.10 % 
+🌙 Night                  249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Tuesday                  463 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Wednesday                535 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Thursday                 408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Friday                   488 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Saturday                 396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Sunday                   450 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               42 mins             ████████████████████████░   97.20 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+
+🐱‍💻 Projects: 
+tp3-starter              43 mins             █████████████████████████   99.49 % 
+lyrixtranslate           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+
+💻 Operating System: 
+Windows                  43 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -90,7 +129,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2024 01:10:42 UTC
+ Last Updated on 13/04/2024 00:58:48 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
