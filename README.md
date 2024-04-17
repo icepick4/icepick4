@@ -104,16 +104,13 @@ Sunday                   450 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               42 mins             ████████████████████████░   97.20 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JSON                     0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tp3-starter              43 mins             █████████████████████████   99.49 % 
-lyrixtranslate           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+lyrixtranslate           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +126,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2024 01:10:22 UTC
+ Last Updated on 17/04/2024 01:10:46 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
