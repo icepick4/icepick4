@@ -73,8 +73,6 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
 
 > 📦 874.7 kB Used in GitHub's Storage 
  > 
-> 🏆 615 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -134,7 +132,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2024 01:14:26 UTC
+ Last Updated on 18/05/2024 01:13:32 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
