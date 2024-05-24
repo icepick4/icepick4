@@ -106,19 +106,13 @@ Sunday                   426 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               50 mins             ██████████████████░░░░░░░   72.42 % 
-TypeScript               18 mins             ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tp3-starter              50 mins             ██████████████████░░░░░░░   72.92 % 
-capitalympics-api        17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-capitalympics            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +128,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2024 01:14:08 UTC
+ Last Updated on 24/05/2024 01:14:47 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
