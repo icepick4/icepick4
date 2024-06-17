@@ -81,6 +81,40 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                471 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌆 Daytime                1291 commits        ███████████░░░░░░░░░░░░░░   44.11 % 
+🌃 Evening                923 commits         ████████░░░░░░░░░░░░░░░░░   31.53 % 
+🌙 Night                  242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   393 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Tuesday                  423 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Wednesday                486 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Thursday                 380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Friday                   456 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Saturday                 363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Sunday                   426 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -94,7 +128,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 01:23:09 UTC
+ Last Updated on 17/06/2024 01:19:53 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
