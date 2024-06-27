@@ -73,8 +73,6 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
 
 > 📦 875.1 kB Used in GitHub's Storage 
  > 
-> 🏆 670 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -106,14 +104,14 @@ Sunday                   426 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 mins             █████████████████████████   98.42 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+TypeScript               27 mins             █████████████████████████   98.36 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🐱‍💻 Projects: 
-lyrixtranslate           28 mins             █████████████████████████   100.00 % 
+lyrixtranslate           27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +127,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2024 01:17:43 UTC
+ Last Updated on 27/06/2024 01:18:02 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
