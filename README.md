@@ -67,7 +67,7 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C198%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -77,7 +77,7 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
 
 > 📦 877.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 734 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,13 +110,19 @@ Sunday                   426 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   27 mins             █████████████████░░░░░░░░   66.11 % 
+TypeScript               11 mins             ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+portfolio-v2             33 mins             ████████████████████░░░░░   79.52 % 
+portfolio                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+lyrixtranslate           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +138,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2024 01:19:02 UTC
+ Last Updated on 21/07/2024 01:25:53 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
