@@ -67,7 +67,7 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -77,7 +77,7 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
 
 > 📦 877.3 kB Used in GitHub's Storage 
  > 
-> 🏆 825 Contributions in the Year 2024
+> 🏆 827 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,19 +88,19 @@ Try it for free here : https://www.lyricslingua.com and sign up to start the exp
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                474 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-🌆 Daytime                1307 commits        ███████████░░░░░░░░░░░░░░   44.34 % 
-🌃 Evening                925 commits         ████████░░░░░░░░░░░░░░░░░   31.38 % 
+🌞 Morning                474 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+🌆 Daytime                1308 commits        ███████████░░░░░░░░░░░░░░   44.35 % 
+🌃 Evening                925 commits         ████████░░░░░░░░░░░░░░░░░   31.37 % 
 🌙 Night                  242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Monday                   397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 Tuesday                  426 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Wednesday                490 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Wednesday                491 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
 Thursday                 380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Friday                   466 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Friday                   466 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 Saturday                 363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 Sunday                   426 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 ```
@@ -110,13 +110,16 @@ Sunday                   426 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      10 mins             ██████████████░░░░░░░░░░░   54.92 % 
+JSON                     7 mins              ██████████░░░░░░░░░░░░░░░   41.24 % 
+Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lyrixtranslate           10 mins             ██████████████░░░░░░░░░░░   54.92 % 
+portfolio-v2             8 mins              ███████████░░░░░░░░░░░░░░   45.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +135,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2024 01:07:41 UTC
+ Last Updated on 01/08/2024 01:27:48 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
