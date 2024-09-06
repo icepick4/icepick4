@@ -65,17 +65,17 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C232%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C236%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 884.5 kB Used in GitHub's Storage 
+> 📦 885.3 kB Used in GitHub's Storage 
  > 
-> 🏆 922 Contributions in the Year 2024
+> 🏆 925 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,6 +83,47 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                513 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+🌆 Daytime                1402 commits        ███████████░░░░░░░░░░░░░░   43.76 % 
+🌃 Evening                1035 commits        ████████░░░░░░░░░░░░░░░░░   32.30 % 
+🌙 Night                  254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Tuesday                  462 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Wednesday                508 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Thursday                 477 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Friday                   508 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Saturday                 367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Sunday                   438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               5 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.68 % 
+Vue.js                   5 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+
+🐱‍💻 Projects: 
+nuxt3-global-template-saa12 hrs 4 mins       █████████████████████████   98.06 % 
+lyrixtranslate           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+portfolio-v2             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+
+💻 Operating System: 
+Linux                    8 hrs 13 mins       █████████████████░░░░░░░░   66.74 % 
+Windows                  4 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.26 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -96,7 +137,7 @@ JavaScript               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2024 01:27:56 UTC
+ Last Updated on 06/09/2024 01:27:40 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
