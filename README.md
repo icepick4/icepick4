@@ -12,9 +12,9 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
   
   # 🟢 Current project
   
-  I'm currently working on a <strong>powerful SaaS template</strong> for Nuxt. \
-  This template will contain everything you need to develop a <strong>SaaS</strong> fast & simply with a Nuxt environment. \
-  I will share the tech-stack soon and I will publish a <strong>waitlist website</strong> for the project to allow anyone intersted to follow all the updates.
+  I'm currently working on a <strong>powerful SaaS template</strong> for Nuxt called <strong><i>GoNuxt</i></strong>. \
+  This template will contain everything you need to develop a <strong>SaaS</strong> fast & simply with the Nuxt environment. \
+  I will soon I will publish a <strong>waitlist website</strong> for the project to allow anyone intersted to follow all the updates.
 
   [Sign up on the waitlist to be aware of my work !](https://waitlist.gonuxt.dev)
   
