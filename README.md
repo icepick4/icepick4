@@ -12,11 +12,11 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
   
   # 🟢 Current project
   
-  I'm currently working on a <strong>powerful SaaS template</strong> for Nuxt called <strong><i>GoNuxt</i></strong>. \
+  I'm currently working on a <strong>powerful SaaS boilerplate</strong> for Nuxt called <strong><i>GoNuxt</i></strong>. \
   This template will contain everything you need to develop a <strong>SaaS</strong> fast & simply with the Nuxt environment. \
-  I will soon I will publish a <strong>waitlist website</strong> for the project to allow anyone intersted to follow all the updates.
+  I will soon publish a <strong>waitlist website</strong> for the project to allow anyone intersted to follow all the updates and be aware of the launch.
 
-  [Sign up on the waitlist to be aware of my work !](https://waitlist.gonuxt.dev)
+  [Sign up on the waitlist to be aware of my work !](https://gonuxt.dev)
   
   <a href="https://waitlist.gonuxt.dev">
     <img src="https://img.shields.io/badge/GoNuxt-09bd5c?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="55px" />
