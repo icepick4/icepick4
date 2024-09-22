@@ -18,7 +18,7 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
 
   [Sign up on the waitlist to be aware of my work !](https://gonuxt.dev)
   
-  <a href="https://waitlist.gonuxt.dev">
+  <a href="https://gonuxt.dev">
     <img src="https://img.shields.io/badge/GoNuxt-09bd5c?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="55px" />
   </a>
 
