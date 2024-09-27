@@ -69,7 +69,7 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -77,7 +77,7 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
 
 > 📦 887.4 kB Used in GitHub's Storage 
  > 
-> 🏆 879 Contributions in the Year 2024
+> 🏆 885 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,22 +110,22 @@ Sunday                   522 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   11 hrs 6 mins       ███████████████░░░░░░░░░░   58.10 % 
-TypeScript               5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Vue.js                   10 hrs 9 mins       ███████████████░░░░░░░░░░   59.80 % 
+TypeScript               4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-nuxt3-global-template-saa14 hrs 12 mins      ███████████████████░░░░░░   74.27 % 
-gonuxt-waitlist          2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-lyrixtranslate           1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-maths                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Python_Chap4             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+nuxt3-global-template-saa12 hrs 7 mins       ██████████████████░░░░░░░   71.34 % 
+gonuxt-waitlist          2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+lyrixtranslate           1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+maths                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Python_Chap4             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Windows                  16 hrs 34 mins      ██████████████████████░░░   86.68 % 
-Linux                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Windows                  16 hrs 34 mins      ████████████████████████░   97.63 % 
+Linux                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 
 **I Mostly Code in Python** 
@@ -141,7 +141,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2024 01:37:19 UTC
+ Last Updated on 27/09/2024 01:38:34 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
