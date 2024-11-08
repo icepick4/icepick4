@@ -77,8 +77,6 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
 
 > 📦 890.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,067 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -88,9 +86,9 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                535 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-🌆 Daytime                1464 commits        ███████████░░░░░░░░░░░░░░   43.99 % 
-🌃 Evening                1067 commits        ████████░░░░░░░░░░░░░░░░░   32.06 % 
+🌞 Morning                535 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+🌆 Daytime                1465 commits        ███████████░░░░░░░░░░░░░░   44.01 % 
+🌃 Evening                1067 commits        ████████░░░░░░░░░░░░░░░░░   32.05 % 
 🌙 Night                  262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -99,8 +97,8 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
 Monday                   493 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Tuesday                  504 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 Wednesday                494 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Thursday                 418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   523 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Thursday                 419 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Friday                   523 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 Saturday                 392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 Sunday                   504 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 ```
@@ -140,7 +138,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2024 01:36:59 UTC
+ Last Updated on 08/11/2024 01:37:21 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
