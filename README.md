@@ -67,15 +67,17 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C360%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C360%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 890.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,068 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,21 +110,21 @@ Sunday                   504 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   1 hr 4 mins         ██████████████░░░░░░░░░░░   57.82 % 
-Docker                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-TypeScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Vue.js                   1 hr 5 mins         ███████████████░░░░░░░░░░   59.31 % 
+Docker                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+TypeScript               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
 YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-portfolio-v2             42 mins             ██████████░░░░░░░░░░░░░░░   38.14 % 
-lyrixtranslate           40 mins             █████████░░░░░░░░░░░░░░░░   36.76 % 
-docker                   27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+lyrixtranslate           47 mins             ███████████░░░░░░░░░░░░░░   42.77 % 
+portfolio-v2             35 mins             ████████░░░░░░░░░░░░░░░░░   32.15 % 
+docker                   27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
 scripts-python           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        ███████████████████░░░░░░   74.90 % 
-Linux                    27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Windows                  1 hr 16 mins        █████████████████░░░░░░░░   68.87 % 
+Linux                    34 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +140,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2024 01:37:21 UTC
+ Last Updated on 09/11/2024 01:28:06 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
