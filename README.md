@@ -67,7 +67,7 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,7 +77,7 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
 
 > 📦 890.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,107 Contributions in the Year 2024
+> 🏆 1,112 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,19 +110,19 @@ Sunday                   504 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   1 hr 16 mins        ██████████████░░░░░░░░░░░   56.67 % 
-TypeScript               37 mins             ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Vue.js                   1 hr 11 mins        █████████████░░░░░░░░░░░░   52.05 % 
+TypeScript               45 mins             ████████░░░░░░░░░░░░░░░░░   33.03 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🐱‍💻 Projects: 
-lyrixtranslate           1 hr 59 mins        ██████████████████████░░░   89.16 % 
-maths                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+lyrixtranslate           2 hrs 2 mins        ██████████████████████░░░   89.33 % 
+maths                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        ███████████████████░░░░░░   76.63 % 
-Linux                    31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Windows                  1 hr 51 mins        ████████████████████░░░░░   81.92 % 
+Linux                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +138,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2024 01:44:04 UTC
+ Last Updated on 16/11/2024 01:41:41 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
