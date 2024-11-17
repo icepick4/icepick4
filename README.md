@@ -58,6 +58,16 @@ Hello! I'm a passionate developer with a deep interest in technology and all thi
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
+# 🎓 Certifications
+
+I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Actions on October 2024.
+
+<img src="https://github.com/user-attachments/assets/73538a60-2769-4f08-bd07-45ff59457a97" height="225px" hspace="40"/>
+<img src="https://github.com/user-attachments/assets/71dbbd84-4161-4c41-88ac-85f31782dccf" height="225px" />
+
+[GitHub Foundations Credly Badge‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ](https://www.credly.com/badges/73b09490-6836-4bc1-b934-8238c75d4d0d/public_url)
+[GitHub Actions Credly Badge](https://www.credly.com/badges/a3e27415-2a38-4d99-940c-f3df155fbad1/public_url)
+
 # 🎉 Hacktoberfest 2023
 
 [![An image of @icepick4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/icepick4)](https://holopin.io/@icepick4)
