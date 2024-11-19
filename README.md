@@ -77,7 +77,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,16 +120,16 @@ Sunday                   505 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   1 hr 1 min          █████████████░░░░░░░░░░░░   51.04 % 
-TypeScript               52 mins             ███████████░░░░░░░░░░░░░░   44.10 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Vue.js                   1 hr 1 min          █████████████░░░░░░░░░░░░   50.08 % 
+TypeScript               55 mins             ███████████░░░░░░░░░░░░░░   45.15 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-lyrixtranslate           1 hr 59 mins        █████████████████████████   100.00 % 
+lyrixtranslate           2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -145,7 +145,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2024 01:45:45 UTC
+ Last Updated on 19/11/2024 01:43:54 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
