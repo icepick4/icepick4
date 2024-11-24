@@ -77,7 +77,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C363%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C364%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -118,17 +118,19 @@ Sunday                   505 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   43 mins             ████████████████████░░░░░   80.00 % 
-TypeScript               10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   1 hr 58 mins        ███████████████████████░░   91.42 % 
+TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-scripts-python           24 mins             ███████████░░░░░░░░░░░░░░   44.82 % 
-cryptographie            19 mins             █████████░░░░░░░░░░░░░░░░   35.17 % 
-lyrixtranslate           10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+maths                    1 hr 15 mins        ██████████████░░░░░░░░░░░   57.99 % 
+scripts-python           24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+cryptographie            19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+lyrixtranslate           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 💻 Operating System: 
-Linux                    43 mins             ████████████████████░░░░░   80.00 % 
-Windows                  10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Linux                    1 hr 58 mins        ███████████████████████░░   91.60 % 
+Windows                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +146,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2024 01:39:58 UTC
+ Last Updated on 24/11/2024 01:49:19 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
