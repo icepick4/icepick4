@@ -87,7 +87,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 890.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,114 Contributions in the Year 2024
+> 🏆 1,115 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,16 +120,15 @@ Sunday                   505 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 58 mins        █████████████████████████   99.80 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   1 hr 41 mins        █████████████████████████   99.77 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-maths                    1 hr 15 mins        ████████████████░░░░░░░░░   63.31 % 
-scripts-python           24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-cryptographie            19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+maths                    1 hr 15 mins        ███████████████████░░░░░░   74.02 % 
+scripts-python           26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
 
 💻 Operating System: 
-Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +144,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2024 01:46:15 UTC
+ Last Updated on 27/11/2024 01:47:37 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
