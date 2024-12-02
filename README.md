@@ -77,6 +77,8 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C368%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
@@ -85,7 +87,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 890.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,129 Contributions in the Year 2024
+> 🏆 1,134 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,6 +95,47 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                543 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+🌆 Daytime                1476 commits        ███████████░░░░░░░░░░░░░░   43.90 % 
+🌃 Evening                1072 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
+🌙 Night                  271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   499 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Tuesday                  504 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Wednesday                500 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Thursday                 422 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Friday                   535 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Saturday                 392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Sunday                   510 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 1 min          ██████████████░░░░░░░░░░░   55.38 % 
+Vue.js                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Text                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+
+🐱‍💻 Projects: 
+lyrixtranslate           1 hr 22 mins        ███████████████████░░░░░░   74.71 % 
+cryptographie            23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+capitalympics-api        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+
+💻 Operating System: 
+Windows                  1 hr 26 mins        ████████████████████░░░░░   78.48 % 
+Linux                    23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -106,7 +149,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 02:02:18 UTC
+ Last Updated on 02/12/2024 01:50:47 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
