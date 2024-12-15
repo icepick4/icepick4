@@ -87,6 +87,8 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 890.6 kB Used in GitHub's Storage 
  > 
+> 🏆 1,181 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -118,19 +120,15 @@ Sunday                   618 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     5 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.39 % 
-Python                   4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
-JavaScript               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Python                   4 hrs 11 mins       ████████████████████████░   94.38 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-ndli2024                 7 hrs 3 mins        ███████████████░░░░░░░░░░   61.39 % 
-advent-of-code           4 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
+advent-of-code           4 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 3 mins        ███████████████░░░░░░░░░░   61.39 % 
-Windows                  4 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
+Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +144,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2024 01:45:38 UTC
+ Last Updated on 15/12/2024 01:55:17 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
