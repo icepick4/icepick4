@@ -120,15 +120,14 @@ Sunday                   618 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 11 mins       ████████████████████████░   94.38 % 
-Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   2 hrs 57 mins       ███████████████████████░░   92.53 % 
+Text                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🐱‍💻 Projects: 
-advent-of-code           4 hrs 26 mins       █████████████████████████   100.00 % 
+advent-of-code           3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +143,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2024 01:55:17 UTC
+ Last Updated on 16/12/2024 01:52:42 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
