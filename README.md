@@ -77,7 +77,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -87,7 +87,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 890.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1,184 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,19 +120,19 @@ Sunday                   672 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Assembly                 1 hr 10 mins        █████████████████░░░░░░░░   66.69 % 
-TypeScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Assembly                 1 hr 10 mins        ████████████████░░░░░░░░░   62.96 % 
+TypeScript               24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-architecture             1 hr 10 mins        █████████████████░░░░░░░░   66.69 % 
-lyrixtranslate           18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-maths                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+architecture             1 hr 10 mins        ████████████████░░░░░░░░░   62.96 % 
+lyrixtranslate           25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+maths                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 
 💻 Operating System: 
-Linux                    1 hr 28 mins        █████████████████████░░░░   83.96 % 
-Windows                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Linux                    1 hr 28 mins        ████████████████████░░░░░   79.26 % 
+Windows                  23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2024 01:40:12 UTC
+ Last Updated on 25/12/2024 01:38:53 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
