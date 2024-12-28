@@ -77,7 +77,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C392%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -87,7 +87,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 891.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1,192 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,14 +120,15 @@ Sunday                   726 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               29 mins             ████████████████████░░░░░   80.54 % 
-JSON                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+TypeScript               1 hr 42 mins        ██████████████████████░░░   88.63 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Vue.js                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🐱‍💻 Projects: 
-lyrixtranslate           36 mins             █████████████████████████   100.00 % 
+lyrixtranslate           1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,7 +144,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2024 01:40:08 UTC
+ Last Updated on 28/12/2024 01:37:52 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
