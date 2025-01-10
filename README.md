@@ -77,8 +77,6 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C392%20hrs%2011%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
@@ -87,46 +85,14 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 891.0 kB Used in GitHub's Storage 
  > 
+> 🏆 3 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                846 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-🌆 Daytime                2258 commits        ████████████░░░░░░░░░░░░░   46.44 % 
-🌃 Evening                1418 commits        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-🌙 Night                  340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   752 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Tuesday                  733 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Wednesday                786 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Thursday                 605 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Friday                   698 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Saturday                 562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Sunday                   726 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -140,7 +106,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 02:07:58 UTC
+ Last Updated on 10/01/2025 01:43:08 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
