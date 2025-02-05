@@ -77,7 +77,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C392%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C395%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,6 +86,8 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 **🐱 My GitHub Data** 
 
 > 📦 891.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 10 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,13 +120,17 @@ Sunday                   834 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        2 hrs 13 mins       ██████████████████░░░░░░░   73.17 % 
+TypeScript               41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Vue.js                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tp1                      2 hrs 13 mins       ██████████████████░░░░░░░   73.17 % 
+lyrixtranslate           48 mins             ███████░░░░░░░░░░░░░░░░░░   26.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,7 +146,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2025 01:39:24 UTC
+ Last Updated on 05/02/2025 01:39:48 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
