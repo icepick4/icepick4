@@ -77,7 +77,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C400%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,7 +87,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 891.6 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
+> 🏆 13 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,8 +99,8 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 ```text
 🌞 Morning                1065 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-🌆 Daytime                2848 commits        ████████████░░░░░░░░░░░░░   47.58 % 
-🌃 Evening                1688 commits        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+🌆 Daytime                2848 commits        ████████████░░░░░░░░░░░░░   47.57 % 
+🌃 Evening                1689 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
 🌙 Night                  385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -109,7 +109,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 Monday                   938 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
 Tuesday                  904 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
 Wednesday                1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Thursday                 758 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Thursday                 759 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 Friday                   809 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 Saturday                 688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 Sunday                   888 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
@@ -120,15 +120,17 @@ Sunday                   888 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 38 mins       █████████████████████████   98.53 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python                   2 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.05 % 
+TypeScript               1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Vue.js                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-algo                     2 hrs 38 mins       █████████████████████████   98.53 % 
-lyrixtranslate           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+lyrixtranslate           2 hrs 44 mins       █████████████░░░░░░░░░░░░   50.95 % 
+algo                     2 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.05 % 
 
 💻 Operating System: 
-Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +146,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2025 01:39:35 UTC
+ Last Updated on 14/02/2025 01:38:52 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
