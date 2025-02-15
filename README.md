@@ -87,7 +87,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 891.6 kB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,17 +120,17 @@ Sunday                   888 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.05 % 
-TypeScript               1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-Vue.js                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Python                   2 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.41 % 
+TypeScript               1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+Vue.js                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-lyrixtranslate           2 hrs 44 mins       █████████████░░░░░░░░░░░░   50.95 % 
-algo                     2 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.05 % 
+lyrixtranslate           2 hrs 41 mins       █████████████░░░░░░░░░░░░   50.59 % 
+algo                     2 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.41 % 
 
 💻 Operating System: 
-Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +146,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 01:38:52 UTC
+ Last Updated on 15/02/2025 01:37:50 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
