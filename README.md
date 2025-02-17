@@ -77,6 +77,8 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%2025%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
@@ -85,12 +87,50 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 891.6 kB Used in GitHub's Storage 
  > 
+> 🏆 13 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1065 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+🌆 Daytime                2848 commits        ████████████░░░░░░░░░░░░░   47.57 % 
+🌃 Evening                1689 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+🌙 Night                  385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   938 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Tuesday                  904 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Wednesday                1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Thursday                 759 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Friday                   809 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Saturday                 688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Sunday                   888 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 21 mins        █████████████░░░░░░░░░░░░   50.54 % 
+Vue.js                   1 hr 19 mins        ████████████░░░░░░░░░░░░░   49.42 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🐱‍💻 Projects: 
+lyrixtranslate           2 hrs 41 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    2 hrs 41 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -104,7 +144,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2025 01:45:20 UTC
+ Last Updated on 17/02/2025 01:42:12 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
