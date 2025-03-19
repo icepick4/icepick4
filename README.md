@@ -77,7 +77,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C421%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C423%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,13 +120,16 @@ Sunday                   726 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 hr 12 mins        █████████████████████████   99.39 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+c                        1 hr 13 mins        █████████████████████████   99.92 % 
+cryptographie            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -142,7 +145,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2025 01:45:29 UTC
+ Last Updated on 19/03/2025 01:45:23 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
