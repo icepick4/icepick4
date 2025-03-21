@@ -87,8 +87,6 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 890.8 kB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 47 Public Repositories 
@@ -146,7 +144,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2025 01:44:05 UTC
+ Last Updated on 21/03/2025 01:46:08 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
