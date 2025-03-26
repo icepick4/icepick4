@@ -79,7 +79,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C426%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
@@ -87,7 +87,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 890.8 kB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2025
+> 🏆 151 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,19 +120,17 @@ Sunday                   780 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        2 hrs 28 mins       ███████████████░░░░░░░░░░   58.38 % 
-Python                   1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   40.64 % 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   1 hr 43 mins        ██████████████░░░░░░░░░░░   57.00 % 
+C                        1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   41.86 % 
+Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🐱‍💻 Projects: 
-c                        2 hrs 30 mins       ███████████████░░░░░░░░░░   58.93 % 
-algo                     1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   40.64 % 
-tp8                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-cryptographie            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+algo                     1 hr 43 mins        ██████████████░░░░░░░░░░░   57.00 % 
+c                        1 hr 17 mins        ███████████░░░░░░░░░░░░░░   42.42 % 
+tp8                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Linux                    4 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -148,7 +146,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2025 01:47:05 UTC
+ Last Updated on 26/03/2025 01:46:08 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
