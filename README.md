@@ -87,7 +87,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 890.8 kB Used in GitHub's Storage 
  > 
-> 🏆 151 Contributions in the Year 2025
+> 🏆 157 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,17 +120,13 @@ Sunday                   780 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 43 mins        ██████████████░░░░░░░░░░░   57.00 % 
-C                        1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   41.86 % 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Python                   1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-algo                     1 hr 43 mins        ██████████████░░░░░░░░░░░   57.00 % 
-c                        1 hr 17 mins        ███████████░░░░░░░░░░░░░░   42.42 % 
-tp8                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+algo                     1 hr 43 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +142,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2025 01:46:08 UTC
+ Last Updated on 27/03/2025 01:45:49 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
