@@ -77,8 +77,6 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C426%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
@@ -87,7 +85,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 890.8 kB Used in GitHub's Storage 
  > 
-> 🏆 157 Contributions in the Year 2025
+> 🏆 159 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,40 +93,6 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                948 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-🌆 Daytime                2519 commits        ████████████░░░░░░░░░░░░░   47.05 % 
-🌃 Evening                1532 commits        ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-🌙 Night                  355 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   857 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Tuesday                  796 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Wednesday                886 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Thursday                 669 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Friday                   762 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Saturday                 604 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Sunday                   780 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   1 hr 43 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-algo                     1 hr 43 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -142,7 +106,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2025 01:45:49 UTC
+ Last Updated on 28/03/2025 01:46:02 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
