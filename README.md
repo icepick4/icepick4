@@ -77,7 +77,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C427%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C428%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -120,14 +120,16 @@ Sunday                   834 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 48 mins        █████████████████████████   98.58 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+C                        1 hr 48 mins        ████████████████░░░░░░░░░   64.30 % 
+Python                   58 mins             █████████░░░░░░░░░░░░░░░░   34.77 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-c                        1 hr 50 mins        █████████████████████████   100.00 % 
+c                        1 hr 50 mins        ████████████████░░░░░░░░░   65.23 % 
+algo                     58 mins             █████████░░░░░░░░░░░░░░░░   34.77 % 
 
 💻 Operating System: 
-Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,7 +145,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/04/2025 01:46:19 UTC
+ Last Updated on 05/04/2025 01:44:50 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
