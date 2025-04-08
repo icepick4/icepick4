@@ -79,13 +79,15 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C428%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 891.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 162 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -143,7 +145,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2025 01:50:19 UTC
+ Last Updated on 08/04/2025 01:47:47 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
