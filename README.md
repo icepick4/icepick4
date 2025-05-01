@@ -79,15 +79,13 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C434%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 891.1 kB Used in GitHub's Storage 
- > 
-> 🏆 178 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,20 +118,19 @@ Sunday                   888 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        3 hrs 48 mins       █████████████████░░░░░░░░   69.14 % 
-Python                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Makefile                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-C++                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+C                        3 hrs 11 mins       ██████████████████░░░░░░░   70.94 % 
+Python                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Makefile                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-c                        4 hrs 18 mins       ████████████████████░░░░░   78.18 % 
-algo                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-microbit-samples         23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-db                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+c                        3 hrs 42 mins       █████████████████████░░░░   82.08 % 
+algo                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+db                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Linux                    5 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +146,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2025 01:51:10 UTC
+ Last Updated on 01/05/2025 02:00:32 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
