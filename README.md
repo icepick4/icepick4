@@ -77,7 +77,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C439%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C441%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,13 +120,19 @@ Sunday                   888 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      59 mins             ███████████░░░░░░░░░░░░░░   42.40 % 
+Python                   49 mins             █████████░░░░░░░░░░░░░░░░   34.98 % 
+Objective-C              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+C                        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Makefile                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MICROBIT                 1 hr 1 min          ███████████░░░░░░░░░░░░░░   43.72 % 
+microbit-samples         58 mins             ██████████░░░░░░░░░░░░░░░   41.36 % 
+microbit-dal             21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -142,7 +148,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2025 01:54:53 UTC
+ Last Updated on 17/05/2025 01:51:12 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
