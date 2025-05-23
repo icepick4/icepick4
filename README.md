@@ -77,6 +77,8 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C444%20hrs%2010%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
@@ -85,7 +87,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 891.1 kB Used in GitHub's Storage 
  > 
-> 🏆 196 Contributions in the Year 2025
+> 🏆 197 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,6 +95,48 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1125 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+🌆 Daytime                2968 commits        ████████████░░░░░░░░░░░░░   47.84 % 
+🌃 Evening                1726 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+🌙 Night                  385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1024 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Tuesday                  914 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Wednesday                1050 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Thursday                 780 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Friday                   860 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Saturday                 688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Sunday                   888 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C++                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Python                   49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+C                        41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Vue.js                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+TypeScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+
+🐱‍💻 Projects: 
+nuxt3-global-template-saa1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   32.46 % 
+MICROBIT                 1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+microbit-samples         58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+c                        36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+java                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+
+💻 Operating System: 
+Linux                    5 hrs 6 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -106,7 +150,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 01:54:22 UTC
+ Last Updated on 23/05/2025 01:54:36 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
