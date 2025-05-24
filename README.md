@@ -77,7 +77,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C448%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C446%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,7 +87,7 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 
 > 📦 891.1 kB Used in GitHub's Storage 
  > 
-> 🏆 200 Contributions in the Year 2025
+> 🏆 201 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,21 +98,21 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1127 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-🌆 Daytime                2969 commits        ████████████░░░░░░░░░░░░░   47.83 % 
-🌃 Evening                1726 commits        ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+🌞 Morning                1127 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+🌆 Daytime                2970 commits        ████████████░░░░░░░░░░░░░   47.84 % 
+🌃 Evening                1726 commits        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
 🌙 Night                  385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1024 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Tuesday                  914 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Wednesday                1050 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Thursday                 780 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Friday                   863 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Monday                   1024 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Tuesday                  914 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Wednesday                1050 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Thursday                 780 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Friday                   864 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 Saturday                 688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Sunday                   888 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Sunday                   888 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 ```
 
 
@@ -150,7 +150,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2025 12:07:11 UTC
+ Last Updated on 24/05/2025 01:50:04 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
