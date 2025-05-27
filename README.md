@@ -79,13 +79,15 @@ I passed 2 GitHub certifications, GitHub Foundations on July 2024 and GitHub Act
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C448%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 891.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 202 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,15 +120,15 @@ Sunday                   888 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.56 % 
-Text                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Python                   3 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.58 % 
+Text                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 Vue.js                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 C                        35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 C++                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 
 🐱‍💻 Projects: 
-MICROBIT                 3 hrs 50 mins       ██████████████░░░░░░░░░░░   54.64 % 
-nuxt3-global-template-saa1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+MICROBIT                 3 hrs 50 mins       ██████████████░░░░░░░░░░░   54.67 % 
+nuxt3-global-template-saa1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
 c                        36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 java                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 microbit-samples         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
@@ -148,7 +150,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2025 01:57:38 UTC
+ Last Updated on 27/05/2025 01:53:16 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
