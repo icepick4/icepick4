@@ -83,7 +83,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
@@ -91,7 +91,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 907.1 kB Used in GitHub's Storage 
  > 
-> 🏆 321 Contributions in the Year 2025
+> 🏆 322 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,17 +136,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Vue                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 15/07/2025 02:08:39 UTC
+ Last Updated on 16/07/2025 02:05:39 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
