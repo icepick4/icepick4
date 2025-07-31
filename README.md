@@ -81,8 +81,6 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2011%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
@@ -99,40 +97,6 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1312 commits        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-🌆 Daytime                3424 commits        ████████████░░░░░░░░░░░░░   48.34 % 
-🌃 Evening                1928 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-🌙 Night                  419 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1202 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Tuesday                  1042 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Wednesday                1216 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Thursday                 888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Friday                   967 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Saturday                 772 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Sunday                   996 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -146,7 +110,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 02:09:09 UTC
+ Last Updated on 31/07/2025 02:08:24 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
