@@ -91,8 +91,6 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 907.1 kB Used in GitHub's Storage 
  > 
-> 🏆 422 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -136,17 +134,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 01/08/2025 02:25:06 UTC
+ Last Updated on 02/08/2025 02:02:15 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
