@@ -81,8 +81,6 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2011%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
@@ -91,7 +89,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 906.5 kB Used in GitHub's Storage 
  > 
-> 🏆 589 Contributions in the Year 2025
+> 🏆 592 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,40 +97,6 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1403 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-🌆 Daytime                3648 commits        ████████████░░░░░░░░░░░░░   48.56 % 
-🌃 Evening                2028 commits        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-🌙 Night                  434 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1290 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Tuesday                  1104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Wednesday                1298 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Thursday                 941 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Friday                   1016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Saturday                 814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Sunday                   1050 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -146,7 +110,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 01:47:57 UTC
+ Last Updated on 30/08/2025 01:42:50 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
