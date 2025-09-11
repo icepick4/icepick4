@@ -81,7 +81,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -124,14 +124,16 @@ Sunday                   1050 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   17 mins             █████████████████████████   98.99 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Python                   17 mins             ████████████████████████░   97.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🐱‍💻 Projects: 
-maths                    17 mins             █████████████████████████   100.00 % 
+maths                    17 mins             █████████████████████████   98.73 % 
+dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+Linux                    18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -147,7 +149,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2025 01:44:24 UTC
+ Last Updated on 11/09/2025 01:46:13 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
