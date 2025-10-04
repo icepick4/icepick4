@@ -81,6 +81,8 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C464%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
@@ -89,7 +91,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 907.0 kB Used in GitHub's Storage 
  > 
-> 🏆 657 Contributions in the Year 2025
+> 🏆 662 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,6 +99,45 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1454 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+🌆 Daytime                3704 commits        ████████████░░░░░░░░░░░░░   48.47 % 
+🌃 Evening                2050 commits        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+🌙 Night                  434 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1339 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Tuesday                  1132 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Wednesday                1309 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Thursday                 952 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   1046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Saturday                 814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Sunday                   1050 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    3 hrs 15 mins       ███████████████████░░░░░░   76.09 % 
+Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+
+🐱‍💻 Projects: 
+hypr                     2 hrs 28 mins       ██████████████░░░░░░░░░░░   57.77 % 
+rofi                     1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+cpe-swc-tp-keycloak      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+
+💻 Operating System: 
+Linux                    4 hrs 17 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -110,7 +151,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 01:43:43 UTC
+ Last Updated on 04/10/2025 01:40:40 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
