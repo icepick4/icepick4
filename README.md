@@ -124,18 +124,13 @@ Sunday                   1050 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 15 mins       ███████████████████░░░░░░   76.09 % 
-Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hypr                     2 hrs 28 mins       ██████████████░░░░░░░░░░░   57.77 % 
-rofi                     1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-cpe-swc-tp-keycloak      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -151,7 +146,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2025 01:40:40 UTC
+ Last Updated on 05/10/2025 01:53:12 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
