@@ -124,19 +124,13 @@ Sunday                   1158 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   1 hr 11 mins        █████████████░░░░░░░░░░░░   51.55 % 
-TypeScript               50 mins             █████████░░░░░░░░░░░░░░░░   36.76 % 
-YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-lyrixtranslate           2 hrs 2 mins        ██████████████████████░░░   88.33 % 
-Linux-Security-101       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-config                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -152,7 +146,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2025 01:56:13 UTC
+ Last Updated on 02/11/2025 01:58:34 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
