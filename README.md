@@ -81,7 +81,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C498%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -91,7 +91,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 911.0 kB Used in GitHub's Storage 
  > 
-> 🏆 705 Contributions in the Year 2025
+> 🏆 706 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -124,16 +124,22 @@ Sunday                   1266 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   27 mins             ████████████████░░░░░░░░░   64.80 % 
-Other                    15 mins             █████████░░░░░░░░░░░░░░░░   35.20 % 
+Bash                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Python                   27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+YAML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Other                    18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 
 🐱‍💻 Projects: 
-maths                    27 mins             ████████████████░░░░░░░░░   64.80 % 
-config                   15 mins             █████████░░░░░░░░░░░░░░░░   35.20 % 
+sonar                    46 mins             █████████░░░░░░░░░░░░░░░░   35.10 % 
+juice-shop               28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+maths                    27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+config                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+lyrixtranslate           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 💻 Operating System: 
-Windows                  27 mins             ████████████████░░░░░░░░░   64.80 % 
-Linux                    15 mins             █████████░░░░░░░░░░░░░░░░   35.20 % 
+Linux                    1 hr 43 mins        ████████████████████░░░░░   78.83 % 
+Windows                  27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +155,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2025 01:55:30 UTC
+ Last Updated on 15/11/2025 01:50:20 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
