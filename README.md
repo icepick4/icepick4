@@ -124,17 +124,13 @@ Sunday                   1320 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   53 mins             ███████████░░░░░░░░░░░░░░   44.50 % 
-Other                    30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-TypeScript               24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Nginx configuration file 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-4irc-swc-projet-saglik-ja2 hrs               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -150,7 +146,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2025 01:49:17 UTC
+ Last Updated on 23/11/2025 02:07:16 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
