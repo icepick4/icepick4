@@ -81,7 +81,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C501%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C506%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,7 +89,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 **🐱 My GitHub Data** 
 
-> 📦 911.7 kB Used in GitHub's Storage 
+> 📦 920.9 kB Used in GitHub's Storage 
  > 
 > 🏆 710 Contributions in the Year 2025
  > 
@@ -104,7 +104,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 ```text
 🌞 Morning                2068 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
 🌆 Daytime                5149 commits        ████████████░░░░░░░░░░░░░   49.23 % 
-🌃 Evening                2718 commits        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+🌃 Evening                2719 commits        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
 🌙 Night                  524 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -112,10 +112,10 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 ```text
 Monday                   1893 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
 Tuesday                  1521 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Wednesday                1834 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Wednesday                1834 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
 Thursday                 1311 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
 Friday                   1460 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Saturday                 1066 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Saturday                 1067 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 Sunday                   1374 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 ```
 
@@ -124,13 +124,17 @@ Sunday                   1374 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Java                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+C++                      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Vue.js                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+what-is-your-emergency   4 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +150,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2025 01:52:27 UTC
+ Last Updated on 30/11/2025 02:06:20 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
