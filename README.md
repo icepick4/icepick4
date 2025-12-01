@@ -81,7 +81,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C506%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C507%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -124,17 +124,17 @@ Sunday                   1374 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-Java                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-C++                      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Vue.js                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Markdown                 1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Java                     1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Vue.js                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+C++                      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 
 🐱‍💻 Projects: 
-what-is-your-emergency   4 hrs 53 mins       █████████████████████████   100.00 % 
+what-is-your-emergency   5 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -150,7 +150,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2025 02:06:20 UTC
+ Last Updated on 01/12/2025 02:14:37 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
