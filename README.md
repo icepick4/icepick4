@@ -81,7 +81,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C535%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C536%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -91,7 +91,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 943.0 kB Used in GitHub's Storage 
  > 
-> 🏆 770 Contributions in the Year 2025
+> 🏆 828 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -124,21 +124,21 @@ Sunday                   1428 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Python                   2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Markdown                 2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Java                     2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Vue.js                   2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+C++                      5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Python                   2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Markdown                 2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Java                     2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Vue.js                   2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 
 🐱‍💻 Projects: 
-what-is-your-emergency   17 hrs 32 mins      ████████████████████████░   94.82 % 
-microbit-samples         38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-MICROBIT                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-config                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+what-is-your-emergency   17 hrs 46 mins      ████████████████████████░   94.88 % 
+microbit-samples         38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+MICROBIT                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+config                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 bbc-microbit-classic-gcc 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Linux                    18 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -154,7 +154,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2025 02:01:56 UTC
+ Last Updated on 17/12/2025 01:58:11 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
