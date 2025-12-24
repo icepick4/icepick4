@@ -124,16 +124,13 @@ Sunday                   1428 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     13 mins             ████████████████████████░   95.95 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-what-is-your-emergency   13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +146,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2025 02:03:04 UTC
+ Last Updated on 24/12/2025 02:00:27 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
