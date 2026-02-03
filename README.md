@@ -81,6 +81,8 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C572%20hrs%2043%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.82%20million%20lines%20of%20code-blue?style=flat)
@@ -89,14 +91,48 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 977.9 kB Used in GitHub's Storage 
  > 
-> 🏆 55 Contributions in the Year 2026
+> 🏆 57 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 48 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2795 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+🌆 Daytime                6851 commits        ████████████░░░░░░░░░░░░░   49.31 % 
+🌃 Evening                3559 commits        ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+🌙 Night                  688 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2553 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Tuesday                  1998 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Wednesday                2440 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Thursday                 1796 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Friday                   1992 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Saturday                 1362 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Sunday                   1752 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -110,7 +146,7 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 02:40:57 UTC
+ Last Updated on 03/02/2026 02:37:09 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
