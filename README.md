@@ -136,17 +136,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Vue                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Roff                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 03/02/2026 02:37:09 UTC
+ Last Updated on 04/02/2026 02:31:37 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
