@@ -124,10 +124,12 @@ Sunday                   1752 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Other                    2 mins              █████████████████████████   99.09 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-hypr                     2 mins              █████████████████████████   100.00 % 
+hypr                     2 mins              █████████████████████████   99.09 % 
+docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
 Linux                    2 mins              █████████████████████████   100.00 % 
@@ -146,7 +148,7 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 02:33:41 UTC
+ Last Updated on 06/02/2026 02:34:08 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
