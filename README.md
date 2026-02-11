@@ -81,7 +81,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C572%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C574%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -91,50 +91,14 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2026
+> 🏆 61 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 49 Public Repositories 
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2796 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-🌆 Daytime                6852 commits        ████████████░░░░░░░░░░░░░   49.31 % 
-🌃 Evening                3559 commits        ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-🌙 Night                  688 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2555 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Tuesday                  1998 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Wednesday                2440 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Thursday                 1796 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Friday                   1992 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Saturday                 1362 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Sunday                   1752 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   99.09 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-
-🐱‍💻 Projects: 
-hypr                     2 mins              █████████████████████████   99.09 % 
-docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-
-💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -148,7 +112,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2026 02:50:44 UTC
+ Last Updated on 11/02/2026 02:47:31 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
