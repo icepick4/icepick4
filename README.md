@@ -81,9 +81,9 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C574%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C578%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -124,19 +124,18 @@ Sunday                   1752 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 4 mins         ███████████████░░░░░░░░░░   60.48 % 
-Terraform                27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-CMake                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Terraform                3 hrs 58 mins       ████████████████░░░░░░░░░   63.87 % 
+C                        1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🐱‍💻 Projects: 
-s2a-iot                  1 hr 18 mins        ██████████████████░░░░░░░   73.55 % 
-tp-terraform             28 mins             ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+tp-terraform             4 hrs 54 mins       ████████████████████░░░░░   78.85 % 
+s2a-iot                  1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
 
 💻 Operating System: 
-Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -152,7 +151,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2026 02:43:02 UTC
+ Last Updated on 13/02/2026 02:44:05 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
