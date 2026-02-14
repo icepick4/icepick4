@@ -81,7 +81,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C578%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C581%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -124,18 +124,18 @@ Sunday                   1752 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Terraform                3 hrs 58 mins       ████████████████░░░░░░░░░   63.87 % 
-C                        1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Terraform                3 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.69 % 
+C                        2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Other                    1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🐱‍💻 Projects: 
-tp-terraform             4 hrs 54 mins       ████████████████████░░░░░   78.85 % 
-s2a-iot                  1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+tp-terraform             4 hrs 54 mins       █████████████░░░░░░░░░░░░   53.94 % 
+s2a-iot                  4 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.06 % 
 
 💻 Operating System: 
-Linux                    6 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -151,7 +151,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2026 02:44:05 UTC
+ Last Updated on 14/02/2026 02:31:12 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
