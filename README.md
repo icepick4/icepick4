@@ -140,13 +140,13 @@ Python                   13 repos            ██████░░░░░�
 TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
 Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 
 
 
 
- Last Updated on 01/03/2026 02:47:50 UTC
+ Last Updated on 02/03/2026 02:36:05 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
