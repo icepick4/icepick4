@@ -81,7 +81,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C581%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C581%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -99,40 +99,6 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2797 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-🌆 Daytime                6857 commits        ████████████░░░░░░░░░░░░░   49.33 % 
-🌃 Evening                3559 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-🌙 Night                  688 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2558 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Tuesday                  1999 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Wednesday                2440 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Thursday                 1796 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Friday                   1994 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Saturday                 1362 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Sunday                   1752 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -146,7 +112,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2026 02:31:50 UTC
+ Last Updated on 07/03/2026 02:25:36 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
