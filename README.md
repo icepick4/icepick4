@@ -83,7 +83,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C581%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -152,7 +152,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2026 02:30:03 UTC
+ Last Updated on 11/03/2026 02:29:35 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
