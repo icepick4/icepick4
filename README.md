@@ -81,7 +81,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C594%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C595%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -99,6 +99,48 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2797 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+🌆 Daytime                6857 commits        ████████████░░░░░░░░░░░░░   49.33 % 
+🌃 Evening                3559 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌙 Night                  688 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2558 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Tuesday                  1999 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Wednesday                2440 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Thursday                 1796 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Friday                   1994 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Saturday                 1362 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Sunday                   1752 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     9 hrs 17 mins       ██████████████████░░░░░░░   71.10 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Terraform                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+
+🐱‍💻 Projects: 
+stark                    5 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.90 % 
+exemple                  3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+terraform-ansible-templat2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+config                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+nuxt3-global-template-saa1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+
+💻 Operating System: 
+Linux                    13 hrs 4 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -112,7 +154,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2026 02:45:37 UTC
+ Last Updated on 03/04/2026 02:48:19 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
