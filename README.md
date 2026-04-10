@@ -91,7 +91,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2026
+> 🏆 99 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,43 +99,6 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2797 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-🌆 Daytime                6857 commits        ████████████░░░░░░░░░░░░░   49.33 % 
-🌃 Evening                3559 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-🌙 Night                  688 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2558 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Tuesday                  1999 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Wednesday                2440 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Thursday                 1796 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Friday                   1994 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Saturday                 1362 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Sunday                   1752 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JSON                     34 mins             ██████████░░░░░░░░░░░░░░░   41.91 % 
-CSS                      30 mins             █████████░░░░░░░░░░░░░░░░   37.03 % 
-Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-
-🐱‍💻 Projects: 
-config                   1 hr 17 mins        ████████████████████████░   95.10 % 
-hypr                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-
-💻 Operating System: 
-Linux                    1 hr 21 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -149,7 +112,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2026 02:46:52 UTC
+ Last Updated on 10/04/2026 02:59:52 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
