@@ -124,17 +124,13 @@ Sunday                   1752 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     26 mins             █████████████████████████   99.92 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-exemple                  11 mins             ███████████░░░░░░░░░░░░░░   42.26 % 
-stark                    8 mins              ████████░░░░░░░░░░░░░░░░░   31.61 % 
-terraform-ansible-templat6 mins              ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-hypr                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -150,7 +146,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2026 04:01:48 UTC
+ Last Updated on 20/05/2026 04:02:42 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
