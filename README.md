@@ -124,15 +124,13 @@ Sunday                   1752 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   24 mins             ███████████████████████░░   90.18 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Python                   24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-binaires                 24 mins             ███████████████████████░░   90.18 % 
-hypr                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+binaires                 24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+Linux                    24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -148,7 +146,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 04:44:44 UTC
+ Last Updated on 04/06/2026 04:30:20 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
