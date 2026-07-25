@@ -89,7 +89,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 190 Contributions in the Year 2026
+> 🏆 195 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,45 +97,6 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2797 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-🌆 Daytime                6859 commits        ████████████░░░░░░░░░░░░░   49.27 % 
-🌃 Evening                3571 commits        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌙 Night                  693 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2559 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Tuesday                  2012 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Wednesday                2440 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Thursday                 1799 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Friday                   1995 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Saturday                 1362 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Sunday                   1753 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   1 hr 56 mins        █████████████████░░░░░░░░   67.78 % 
-TypeScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-
-🐱‍💻 Projects: 
-dl-audio-clip-display    2 hrs               ██████████████████░░░░░░░   70.08 % 
-lyrixtranslate           51 mins             ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-
-💻 Operating System: 
-Linux                    2 hrs 51 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -149,7 +110,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 03:01:26 UTC
+ Last Updated on 25/07/2026 03:01:01 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
