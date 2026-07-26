@@ -81,6 +81,8 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C621%20hrs%2032%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.55%20million%20lines%20of%20code-blue?style=flat)
@@ -97,6 +99,45 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2797 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+🌆 Daytime                6859 commits        ████████████░░░░░░░░░░░░░   49.27 % 
+🌃 Evening                3571 commits        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+🌙 Night                  693 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2559 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Tuesday                  2012 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Wednesday                2440 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Thursday                 1799 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Friday                   1995 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Saturday                 1362 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Sunday                   1753 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 38 mins        ████████████████░░░░░░░░░   64.11 % 
+TypeScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+
+🐱‍💻 Projects: 
+dl-audio-clip-display    1 hr 42 mins        █████████████████░░░░░░░░   66.60 % 
+lyrixtranslate           51 mins             ████████░░░░░░░░░░░░░░░░░   33.40 % 
+
+💻 Operating System: 
+Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -110,7 +151,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 03:01:01 UTC
+ Last Updated on 26/07/2026 03:26:16 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
