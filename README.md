@@ -81,7 +81,9 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C621%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C599%20hrs%2045%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -138,6 +140,28 @@ lyrixtranslate           51 mins             ████████░░░�
 Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 45 mins (68.69%)
+
+✍️ 7 lines written by AI, 99 lines written by hand (6.6% AI-written)
+
+🔤 481,652 Input Tokens, 3,988 Output Tokens
+
+💵 $1.50 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 25 AI Prompts
+
+Github-Copilot           60 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 6.6% of written lines came from AI
+📝 Concise Prompter — average 425 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 72.09% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -151,7 +175,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:36:59 UTC
+ Last Updated on 28/07/2026 02:52:40 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
