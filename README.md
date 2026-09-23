@@ -81,9 +81,9 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C599%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -126,19 +126,38 @@ Sunday                   1753 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 7 mins         ████████████████████████░   97.97 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+SWIG                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+secu-ia                  52 mins             ███████████████████░░░░░░   75.16 % 
+scripts-python           17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 30 mins (43.63%)
+
+✍️ 0 lines written by AI, 2,762 lines written by hand (0.0% AI-written)
+
+🔤 512,699 Input Tokens, 804 Output Tokens
+
+💵 $1.55 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 7 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 200 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -154,7 +173,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 04:10:46 UTC
+ Last Updated on 23/09/2026 04:07:35 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
