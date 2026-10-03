@@ -81,9 +81,9 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C604%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C604%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -126,43 +126,43 @@ Sunday                   1753 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 30 mins       ██████████████████░░░░░░░   72.86 % 
-Markdown                 50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   3 hrs 12 mins       ███████████████████░░░░░░   77.11 % 
+Markdown                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-secu-ia                  1 hr 48 mins        █████████████░░░░░░░░░░░░   52.17 % 
-5IRC-2026-2027-CYBER-SIA 1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.82 % 
-TP-02-v3                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-tp4                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-tp3                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+secu-ia                  2 hrs 18 mins       ██████████████░░░░░░░░░░░   55.31 % 
+5IRC-2026-2027-CYBER-SIA 1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+TP-02-v3                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+tp6                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+tp4                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 13 mins (64.53%)
+⏱ AI Coding Time: 2 hrs 36 mins (62.8%)
 
-✍️ 0 lines written by AI, 214 lines written by hand (0.0% AI-written)
+✍️ 34 lines written by AI, 274 lines written by hand (11.04% AI-written)
 
-🔤 476,521 Input Tokens, 5,761 Output Tokens
+🔤 1,212,737 Input Tokens, 7,034 Output Tokens
 
-💵 $1.52 Estimated AI Cost This Week
+💵 $3.74 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 40 AI Prompts
+🧠 6 AI Sessions, 49 AI Prompts
 
-Github-Copilot           157 lines           █████████████████████████   100.00 % 
+Github-Copilot           191 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 571 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 67.56% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 11.04% of written lines came from AI
+📄 Detailed Prompter — average 568 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 70.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -178,7 +178,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 04:56:24 UTC
+ Last Updated on 03/10/2026 04:38:28 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
