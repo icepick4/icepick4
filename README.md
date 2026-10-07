@@ -81,9 +81,9 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
   </div>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C604%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C605%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -126,42 +126,42 @@ Sunday                   1753 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        ████████████████████████░   94.04 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Python                   1 hr 14 mins        ██████████████████████░░░   87.47 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-5IRC-2026-2027-CYBER-SIA 1 hr 7 mins         █████████████░░░░░░░░░░░░   50.71 % 
-secu-ia                  51 mins             ██████████░░░░░░░░░░░░░░░   38.35 % 
-tp6                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-PySongsterrDownlader     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-tp4                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+secu-ia                  1 hr                ██████████████████░░░░░░░   71.38 % 
+5IRC-2026-2027-CYBER-SIA 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+tp6                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+PySongsterrDownlader     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+tp4                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 💻 Operating System: 
-Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (56.07%)
+⏱ AI Coding Time: 45 mins (53.06%)
 
-✍️ 34 lines written by AI, 228 lines written by hand (12.98% AI-written)
+✍️ 45 lines written by AI, 146 lines written by hand (23.56% AI-written)
 
-🔤 736,216 Input Tokens, 1,273 Output Tokens
+🔤 914,214 Input Tokens, 2,104 Output Tokens
 
-💵 $2.23 Estimated AI Cost This Week
+💵 $2.77 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 16 AI Prompts
+🧠 4 AI Sessions, 19 AI Prompts
 
-Github-Copilot           34 lines            █████████████████████████   100.00 % 
+Github-Copilot           45 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.98% of written lines came from AI
-📝 Concise Prompter — average 412 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 92.06% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 23.56% of written lines came from AI
+📝 Concise Prompter — average 422 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 84.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -177,7 +177,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 05:42:36 UTC
+ Last Updated on 07/10/2026 05:13:49 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
