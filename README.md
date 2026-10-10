@@ -126,41 +126,39 @@ Sunday                   1753 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   44 mins             ████████████████████░░░░░   82.00 % 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Markdown                 8 mins              █████████████░░░░░░░░░░░░   53.69 % 
+Python                   6 mins              ██████████░░░░░░░░░░░░░░░   39.20 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 🐱‍💻 Projects: 
-secu-ia                  37 mins             █████████████████░░░░░░░░   69.38 % 
-tp6                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-5IRC-2026-2027-CYBER-SIA 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-PySongsterrDownlader     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-tp1                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+secu-ia                  9 mins              ██████████████░░░░░░░░░░░   57.63 % 
+5IRC-2026-2027-CYBER-SIA 6 mins              ██████████░░░░░░░░░░░░░░░   38.03 % 
+tp1                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 💻 Operating System: 
-Linux                    54 mins             █████████████████████████   100.00 % 
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (54.03%)
+⏱ AI Coding Time: 10 mins (64.7%)
 
-✍️ 11 lines written by AI, 60 lines written by hand (15.49% AI-written)
+✍️ 11 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 882,470 Input Tokens, 1,864 Output Tokens
+🔤 177,998 Input Tokens, 831 Output Tokens
 
-💵 $2.68 Estimated AI Cost This Week
+💵 $0.55 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 13 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
-Github-Copilot           33 lines            █████████████████████████   100.00 % 
+Github-Copilot           11 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.49% of written lines came from AI
-📝 Concise Prompter — average 342 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 93.04% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 235 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 54.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -176,7 +174,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 05:27:29 UTC
+ Last Updated on 10/10/2026 05:10:15 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
