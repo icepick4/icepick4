@@ -126,39 +126,19 @@ Sunday                   1753 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████░░░░░░░░░░░░   53.69 % 
-Python                   6 mins              ██████████░░░░░░░░░░░░░░░   39.20 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-secu-ia                  9 mins              ██████████████░░░░░░░░░░░   57.63 % 
-5IRC-2026-2027-CYBER-SIA 6 mins              ██████████░░░░░░░░░░░░░░░   38.03 % 
-tp1                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (64.7%)
-
-✍️ 11 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 177,998 Input Tokens, 831 Output Tokens
-
-💵 $0.55 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-Github-Copilot           11 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 235 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 54.17% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +154,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 06:14:11 UTC
+ Last Updated on 14/10/2026 04:17:46 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
