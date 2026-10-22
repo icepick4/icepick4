@@ -85,7 +85,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -126,14 +126,16 @@ Sunday                   1753 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 mins              ████████████████████████░   96.53 % 
-Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 3 mins              ████████████████████████░   95.17 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-secu-ia                  3 mins              ████████████████████████░   96.53 % 
-TP-02-v3                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+secu-ia                  3 mins              ████████████████████████░   95.17 % 
+TP-02-v3                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+splunk                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
 Linux                    3 mins              █████████████████████████   100.00 % 
@@ -142,7 +144,7 @@ Linux                    3 mins              ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (3.47%)
+⏱ AI Coding Time: 0 secs (3.42%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
@@ -172,7 +174,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 04:03:02 UTC
+ Last Updated on 22/10/2026 04:02:51 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
