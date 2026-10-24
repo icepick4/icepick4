@@ -93,7 +93,7 @@ I passed the HashiCorp Certified: Terraform Associate (003) on June 2025.
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 295 Contributions in the Year 2026
+> 🏆 298 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,16 +126,14 @@ Sunday                   1753 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 mins              ████████████████████████░   95.17 % 
-Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Markdown                 3 mins              ████████████████████████░   96.53 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-secu-ia                  3 mins              ████████████████████████░   95.17 % 
-TP-02-v3                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-splunk                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+secu-ia                  3 mins              ████████████████████████░   96.53 % 
+TP-02-v3                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 💻 Operating System: 
 Linux                    3 mins              █████████████████████████   100.00 % 
@@ -144,7 +142,7 @@ Linux                    3 mins              ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (3.42%)
+⏱ AI Coding Time: 0 secs (3.47%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
@@ -174,7 +172,7 @@ C                        3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 04:06:38 UTC
+ Last Updated on 24/10/2026 04:00:27 UTC
 <!--END_SECTION:waka-->
 ![stats](https://github-readme-stats.vercel.app/api?username=icepick4&count_private=true&show_icons=true&theme=tokyonight)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=icepick4&theme=tokyonight&hide_border=false)
